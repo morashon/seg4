@@ -1,2068 +1,492 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <UndoHistory>
-  <UndoTransaction tv_sec="1356495030" tv_usec="145090" name="automation event move">
-    <MementoUndoCommand obj_id="3795" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="3795" default="0.132362559438" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>18990198 0.0428763665258884
-19348081 0.112247966229916
-21990238 0.0949043035507202
-22059641 0.065622054040432
-31457888 0.065622054040432
-31641637 0.0264462810009718
-57844294 0.0305404234677553
+  <UndoTransaction tv_sec="1356502626" tv_usec="297358" name="automation event move">
+    <MementoUndoCommand obj_id="5990" type_name="N6ARDOUR14AutomationListE">
+      <AutomationList id="5990" default="36.1194953918" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
+        <events>92685235 4.40999984741211
+92741907 674.867947449166
+93173760 643.30222020876
+93177856 4.40999984741211
 </events>
       </AutomationList>
     </MementoUndoCommand>
-    <MementoRedoCommand obj_id="3795" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="3795" default="0.132362559438" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>18990198 0.0428763665258884
-19348081 0.112247966229916
-21990238 0.0949043035507202
-22059641 0.065622054040432
-31457888 0.065622054040432
-31641637 0.0264462810009718
-57844294 0.0397330410778522
+    <MementoRedoCommand obj_id="5990" type_name="N6ARDOUR14AutomationListE">
+      <AutomationList id="5990" default="36.1194953918" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
+        <events>92685235 4.40999984741211
+92741907 674.867947449166
+93167616 643.30222020876
+93177856 4.40999984741211
 </events>
       </AutomationList>
     </MementoRedoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1356495042" tv_usec="10310" name="automation range drag">
-    <MementoUndoCommand obj_id="3808" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="3808" default="0" min_yval="0" max_yval="1" max_xval="0" state="Play" style="Absolute">
-        <events>19073182 0.18364429473877
-33589380 0.922413796186447
-40615588 1
-62438028 1
-78497720 0
+  <UndoTransaction tv_sec="1356502633" tv_usec="227116" name="automation event move">
+    <MementoUndoCommand obj_id="5990" type_name="N6ARDOUR14AutomationListE">
+      <AutomationList id="5990" default="36.1194953918" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
+        <events>92685235 4.40999984741211
+92741907 674.867947449166
+93167616 643.30222020876
+93177856 4.40999984741211
 </events>
       </AutomationList>
     </MementoUndoCommand>
-    <MementoRedoCommand obj_id="3808" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="3808" default="0" min_yval="0" max_yval="1" max_xval="0" state="Play" style="Absolute">
-        <events>19073182 0.18364429473877
-33589380 0.922413796186447
-40615588 0.999159482773393
-62438028 0.999159482773393
-78497720 0
+    <MementoRedoCommand obj_id="5990" type_name="N6ARDOUR14AutomationListE">
+      <AutomationList id="5990" default="36.1194953918" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
+        <events>92685235 4.40999984741211
+92741907 674.867947449166
+93167616 643.30222020876
+93169664 4.40999984741211
 </events>
       </AutomationList>
     </MementoRedoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1356495047" tv_usec="528905" name="automation event move">
-    <MementoUndoCommand obj_id="3808" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="3808" default="0" min_yval="0" max_yval="1" max_xval="0" state="Play" style="Absolute">
-        <events>19073182 0.18364429473877
-33589380 0.922413796186447
-40615588 0.999159482773393
-62438028 0.999159482773393
-78497720 0
+  <UndoTransaction tv_sec="1356502646" tv_usec="111377" name="automation event move">
+    <MementoUndoCommand obj_id="5990" type_name="N6ARDOUR14AutomationListE">
+      <AutomationList id="5990" default="36.1194953918" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
+        <events>92685235 4.40999984741211
+92741907 674.867947449166
+93167616 643.30222020876
+93169664 4.40999984741211
 </events>
       </AutomationList>
     </MementoUndoCommand>
-    <MementoRedoCommand obj_id="3808" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="3808" default="0" min_yval="0" max_yval="1" max_xval="0" state="Play" style="Absolute">
-        <events>19073182 0.18364429473877
-33589380 0.922413796186447
-40615588 0.999159482773393
-59975786 1
-78497720 0
+    <MementoRedoCommand obj_id="5990" type_name="N6ARDOUR14AutomationListE">
+      <AutomationList id="5990" default="36.1194953918" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
+        <events>92685235 4.40999984741211
+92741907 674.867947449166
+93167616 643.30222020876
+93169664 4.40999984741211
 </events>
       </AutomationList>
     </MementoRedoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1356495085" tv_usec="266641" name="add pan automation event">
-    <MementoCommand obj_id="3808" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="3808" default="0" min_yval="0" max_yval="1" max_xval="0" state="Play" style="Absolute">
-        <events>19073182 0.18364429473877
-33589380 0.922413796186447
-40615588 0.999159482773393
-59975786 1
-78497720 0
+  <UndoTransaction tv_sec="1356502650" tv_usec="241286" name="add automation event to Cutoff Frequency (Hz)">
+    <MementoCommand obj_id="5990" type_name="N6ARDOUR14AutomationListE">
+      <AutomationList id="5990" default="36.1194953918" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
+        <events>92685235 4.40999984741211
+92741907 674.867947449166
+93167616 643.30222020876
+93169664 4.40999984741211
 </events>
       </AutomationList>
-      <AutomationList id="3808" default="0" min_yval="0" max_yval="1" max_xval="0" state="Play" style="Absolute">
-        <events>19073182 0.18364429473877
-33589380 0.922413796186447
-40615588 0.999159482773393
-59975786 1
-74922314 0.0956681034482756
-78497720 0
+      <AutomationList id="5990" default="36.1194953918" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
+        <events>92685235 4.40999984741211
+92741907 674.867947449166
+93167616 643.30222020876
+93169664 4.40999984741211
+93306090 323.292719394286
 </events>
       </AutomationList>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1356495087" tv_usec="226431" name="automation event move">
-    <MementoUndoCommand obj_id="3808" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="3808" default="0" min_yval="0" max_yval="1" max_xval="0" state="Play" style="Absolute">
-        <events>19073182 0.18364429473877
-33589380 0.922413796186447
-40615588 0.999159482773393
-59975786 1
-74922314 0.0956681034482756
-78497720 0
+  <UndoTransaction tv_sec="1356502651" tv_usec="828434" name="automation event move">
+    <MementoUndoCommand obj_id="5990" type_name="N6ARDOUR14AutomationListE">
+      <AutomationList id="5990" default="36.1194953918" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
+        <events>92685235 4.40999984741211
+92741907 674.867947449166
+93167616 643.30222020876
+93169664 4.40999984741211
+93306090 323.292719394286
 </events>
       </AutomationList>
     </MementoUndoCommand>
-    <MementoRedoCommand obj_id="3808" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="3808" default="0" min_yval="0" max_yval="1" max_xval="0" state="Play" style="Absolute">
-        <events>19073182 0.18364429473877
-33589380 0.922413796186447
-40615588 0.999159482773393
-59975786 1
-73132240 0
-78497720 0
+    <MementoRedoCommand obj_id="5990" type_name="N6ARDOUR14AutomationListE">
+      <AutomationList id="5990" default="36.1194953918" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
+        <events>92685235 4.40999984741211
+92741907 674.867947449166
+93167616 643.30222020876
+93169664 4.40999984741211
+93306090 4.40999984741211
 </events>
       </AutomationList>
     </MementoRedoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1356495118" tv_usec="171252" name="Region end trim">
-    <MementoUndoCommand obj_id="3801" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="prisoner_ambient_7a814b" orig_diskstream_id="3800" frozen="no">
-        <Region id="3870" name="prisoner_ambient_7a814b.3" start="0" length="41284837" position="19080158" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4419" name="prisoner_ambient_7a814b.2" start="22161322" length="19206066" position="60361861" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Crossfade out="3870" in="4419" active="yes" follow-overlap="yes" fixed="no" length="3134" anchor-point="0" position="60361861">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="522" y="0.282192"/>
-            <point x="1044" y="0.518174"/>
-            <point x="1567" y="0.707946"/>
-            <point x="2089" y="0.851507"/>
-            <point x="2611" y="0.948859"/>
-            <point x="3134" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="522" y="0.948859"/>
-            <point x="1044" y="0.851507"/>
-            <point x="1567" y="0.707946"/>
-            <point x="2089" y="0.518174"/>
-            <point x="2611" y="0.282192"/>
-            <point x="3134" y="0"/>
-          </FadeOut>
-        </Crossfade>
-      </Playlist>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj_id="3801" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="prisoner_ambient_7a814b" orig_diskstream_id="3800" frozen="no">
-        <Region id="3870" name="prisoner_ambient_7a814b.3" start="0" length="41284837" position="19080158" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4419" name="prisoner_ambient_7a814b.2" start="22161322" length="21644030" position="60361861" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Crossfade out="3870" in="4419" active="yes" follow-overlap="yes" fixed="no" length="3134" anchor-point="0" position="60361861">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="522" y="0.282192"/>
-            <point x="1044" y="0.518174"/>
-            <point x="1567" y="0.707946"/>
-            <point x="2089" y="0.851507"/>
-            <point x="2611" y="0.948859"/>
-            <point x="3134" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="522" y="0.948859"/>
-            <point x="1044" y="0.851507"/>
-            <point x="1567" y="0.707946"/>
-            <point x="2089" y="0.518174"/>
-            <point x="2611" y="0.282192"/>
-            <point x="3134" y="0"/>
-          </FadeOut>
-        </Crossfade>
-      </Playlist>
-    </MementoRedoCommand>
-    <MementoRedoCommand obj_id="3801" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="prisoner_ambient_7a814b" orig_diskstream_id="3800" frozen="no">
-        <Region id="3870" name="prisoner_ambient_7a814b.3" start="0" length="41284837" position="19080158" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4419" name="prisoner_ambient_7a814b.2" start="22161322" length="21644030" position="60361861" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Crossfade out="3870" in="4419" active="yes" follow-overlap="yes" fixed="no" length="3134" anchor-point="0" position="60361861">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="522" y="0.282192"/>
-            <point x="1044" y="0.518174"/>
-            <point x="1567" y="0.707946"/>
-            <point x="2089" y="0.851507"/>
-            <point x="2611" y="0.948859"/>
-            <point x="3134" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="522" y="0.948859"/>
-            <point x="1044" y="0.851507"/>
-            <point x="1567" y="0.707946"/>
-            <point x="2089" y="0.518174"/>
-            <point x="2611" y="0.282192"/>
-            <point x="3134" y="0"/>
-          </FadeOut>
-        </Crossfade>
-      </Playlist>
-    </MementoRedoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1356495136" tv_usec="988640" name="split">
-    <MementoCommand obj_id="3801" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="prisoner_ambient_7a814b" orig_diskstream_id="3800" frozen="no">
-        <Region id="3870" name="prisoner_ambient_7a814b.3" start="0" length="41284837" position="19080158" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4419" name="prisoner_ambient_7a814b.2" start="22161322" length="21644030" position="60361861" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Crossfade out="3870" in="4419" active="yes" follow-overlap="yes" fixed="no" length="3134" anchor-point="0" position="60361861">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="522" y="0.282192"/>
-            <point x="1044" y="0.518174"/>
-            <point x="1567" y="0.707946"/>
-            <point x="2089" y="0.851507"/>
-            <point x="2611" y="0.948859"/>
-            <point x="3134" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="522" y="0.948859"/>
-            <point x="1044" y="0.851507"/>
-            <point x="1567" y="0.707946"/>
-            <point x="2089" y="0.518174"/>
-            <point x="2611" y="0.282192"/>
-            <point x="3134" y="0"/>
-          </FadeOut>
-        </Crossfade>
-      </Playlist>
-      <Playlist name="prisoner_ambient_7a814b" orig_diskstream_id="3800" frozen="no">
-        <Region id="3870" name="prisoner_ambient_7a814b.3" start="0" length="41284837" position="19080158" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4544" name="prisoner_ambient_7a814b.4" start="22161322" length="14405079" position="60361861" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="22161322" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4550" name="prisoner_ambient_7a814b.5" start="36566401" length="7238951" position="74766940" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="36566401" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Crossfade out="3870" in="4544" active="yes" follow-overlap="yes" fixed="no" length="3134" anchor-point="0" position="60361861">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="522" y="0.282192"/>
-            <point x="1044" y="0.518174"/>
-            <point x="1567" y="0.707946"/>
-            <point x="2089" y="0.851507"/>
-            <point x="2611" y="0.948859"/>
-            <point x="3134" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="522" y="0.948859"/>
-            <point x="1044" y="0.851507"/>
-            <point x="1567" y="0.707946"/>
-            <point x="2089" y="0.518174"/>
-            <point x="2611" y="0.282192"/>
-            <point x="3134" y="0"/>
-          </FadeOut>
-        </Crossfade>
-      </Playlist>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1356495142" tv_usec="135068" name="Region end trim">
-    <MementoUndoCommand obj_id="3801" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="prisoner_ambient_7a814b" orig_diskstream_id="3800" frozen="no">
-        <Region id="3870" name="prisoner_ambient_7a814b.3" start="0" length="41284837" position="19080158" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4544" name="prisoner_ambient_7a814b.4" start="22161322" length="14405079" position="60361861" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="22161322" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4550" name="prisoner_ambient_7a814b.5" start="36566401" length="7238951" position="74766940" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="36566401" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Crossfade out="3870" in="4544" active="yes" follow-overlap="yes" fixed="no" length="3134" anchor-point="0" position="60361861">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="522" y="0.282192"/>
-            <point x="1044" y="0.518174"/>
-            <point x="1567" y="0.707946"/>
-            <point x="2089" y="0.851507"/>
-            <point x="2611" y="0.948859"/>
-            <point x="3134" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="522" y="0.948859"/>
-            <point x="1044" y="0.851507"/>
-            <point x="1567" y="0.707946"/>
-            <point x="2089" y="0.518174"/>
-            <point x="2611" y="0.282192"/>
-            <point x="3134" y="0"/>
-          </FadeOut>
-        </Crossfade>
-      </Playlist>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj_id="3801" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="prisoner_ambient_7a814b" orig_diskstream_id="3800" frozen="no">
-        <Region id="3870" name="prisoner_ambient_7a814b.3" start="0" length="41284837" position="19080158" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4544" name="prisoner_ambient_7a814b.4" start="22161322" length="9590846" position="60361861" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="22161322" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4550" name="prisoner_ambient_7a814b.5" start="36566401" length="7238951" position="74766940" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="36566401" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Crossfade out="3870" in="4544" active="yes" follow-overlap="yes" fixed="no" length="3134" anchor-point="0" position="60361861">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="522" y="0.282192"/>
-            <point x="1044" y="0.518174"/>
-            <point x="1567" y="0.707946"/>
-            <point x="2089" y="0.851507"/>
-            <point x="2611" y="0.948859"/>
-            <point x="3134" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="522" y="0.948859"/>
-            <point x="1044" y="0.851507"/>
-            <point x="1567" y="0.707946"/>
-            <point x="2089" y="0.518174"/>
-            <point x="2611" y="0.282192"/>
-            <point x="3134" y="0"/>
-          </FadeOut>
-        </Crossfade>
-      </Playlist>
-    </MementoRedoCommand>
-    <MementoRedoCommand obj_id="3801" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="prisoner_ambient_7a814b" orig_diskstream_id="3800" frozen="no">
-        <Region id="3870" name="prisoner_ambient_7a814b.3" start="0" length="41284837" position="19080158" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4544" name="prisoner_ambient_7a814b.4" start="22161322" length="9590846" position="60361861" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="22161322" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4550" name="prisoner_ambient_7a814b.5" start="36566401" length="7238951" position="74766940" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="36566401" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Crossfade out="3870" in="4544" active="yes" follow-overlap="yes" fixed="no" length="3134" anchor-point="0" position="60361861">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="522" y="0.282192"/>
-            <point x="1044" y="0.518174"/>
-            <point x="1567" y="0.707946"/>
-            <point x="2089" y="0.851507"/>
-            <point x="2611" y="0.948859"/>
-            <point x="3134" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="522" y="0.948859"/>
-            <point x="1044" y="0.851507"/>
-            <point x="1567" y="0.707946"/>
-            <point x="2089" y="0.518174"/>
-            <point x="2611" y="0.282192"/>
-            <point x="3134" y="0"/>
-          </FadeOut>
-        </Crossfade>
-      </Playlist>
-    </MementoRedoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1356495148" tv_usec="580546" name="Region start trim">
-    <MementoUndoCommand obj_id="3801" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="prisoner_ambient_7a814b" orig_diskstream_id="3800" frozen="no">
-        <Region id="3870" name="prisoner_ambient_7a814b.3" start="0" length="41284837" position="19080158" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4544" name="prisoner_ambient_7a814b.4" start="22161322" length="9590846" position="60361861" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="22161322" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4550" name="prisoner_ambient_7a814b.5" start="36566401" length="7238951" position="74766940" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="36566401" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Crossfade out="3870" in="4544" active="yes" follow-overlap="yes" fixed="no" length="3134" anchor-point="0" position="60361861">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="522" y="0.282192"/>
-            <point x="1044" y="0.518174"/>
-            <point x="1567" y="0.707946"/>
-            <point x="2089" y="0.851507"/>
-            <point x="2611" y="0.948859"/>
-            <point x="3134" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="522" y="0.948859"/>
-            <point x="1044" y="0.851507"/>
-            <point x="1567" y="0.707946"/>
-            <point x="2089" y="0.518174"/>
-            <point x="2611" y="0.282192"/>
-            <point x="3134" y="0"/>
-          </FadeOut>
-        </Crossfade>
-      </Playlist>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj_id="3801" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="prisoner_ambient_7a814b" orig_diskstream_id="3800" frozen="no">
-        <Region id="3870" name="prisoner_ambient_7a814b.3" start="0" length="41284837" position="19080158" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4544" name="prisoner_ambient_7a814b.4" start="22161322" length="9590846" position="60361861" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="22161322" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4550" name="prisoner_ambient_7a814b.5" start="41270384" length="2534968" position="79470923" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="36566401" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Crossfade out="3870" in="4544" active="yes" follow-overlap="yes" fixed="no" length="3134" anchor-point="0" position="60361861">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="522" y="0.282192"/>
-            <point x="1044" y="0.518174"/>
-            <point x="1567" y="0.707946"/>
-            <point x="2089" y="0.851507"/>
-            <point x="2611" y="0.948859"/>
-            <point x="3134" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="522" y="0.948859"/>
-            <point x="1044" y="0.851507"/>
-            <point x="1567" y="0.707946"/>
-            <point x="2089" y="0.518174"/>
-            <point x="2611" y="0.282192"/>
-            <point x="3134" y="0"/>
-          </FadeOut>
-        </Crossfade>
-      </Playlist>
-    </MementoRedoCommand>
-    <MementoRedoCommand obj_id="3801" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="prisoner_ambient_7a814b" orig_diskstream_id="3800" frozen="no">
-        <Region id="3870" name="prisoner_ambient_7a814b.3" start="0" length="41284837" position="19080158" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4544" name="prisoner_ambient_7a814b.4" start="22161322" length="9590846" position="60361861" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="22161322" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4550" name="prisoner_ambient_7a814b.5" start="41270384" length="2534968" position="79470923" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="36566401" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Crossfade out="3870" in="4544" active="yes" follow-overlap="yes" fixed="no" length="3134" anchor-point="0" position="60361861">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="522" y="0.282192"/>
-            <point x="1044" y="0.518174"/>
-            <point x="1567" y="0.707946"/>
-            <point x="2089" y="0.851507"/>
-            <point x="2611" y="0.948859"/>
-            <point x="3134" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="522" y="0.948859"/>
-            <point x="1044" y="0.851507"/>
-            <point x="1567" y="0.707946"/>
-            <point x="2089" y="0.518174"/>
-            <point x="2611" y="0.282192"/>
-            <point x="3134" y="0"/>
-          </FadeOut>
-        </Crossfade>
-      </Playlist>
-    </MementoRedoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1356495152" tv_usec="759829" name="region drag">
-    <MementoUndoCommand obj_id="3801" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="prisoner_ambient_7a814b" orig_diskstream_id="3800" frozen="no">
-        <Region id="3870" name="prisoner_ambient_7a814b.3" start="0" length="41284837" position="19080158" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4544" name="prisoner_ambient_7a814b.4" start="22161322" length="9590846" position="60361861" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="22161322" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4550" name="prisoner_ambient_7a814b.5" start="41270384" length="2534968" position="79470923" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="36566401" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Crossfade out="3870" in="4544" active="yes" follow-overlap="yes" fixed="no" length="3134" anchor-point="0" position="60361861">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="522" y="0.282192"/>
-            <point x="1044" y="0.518174"/>
-            <point x="1567" y="0.707946"/>
-            <point x="2089" y="0.851507"/>
-            <point x="2611" y="0.948859"/>
-            <point x="3134" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="522" y="0.948859"/>
-            <point x="1044" y="0.851507"/>
-            <point x="1567" y="0.707946"/>
-            <point x="2089" y="0.518174"/>
-            <point x="2611" y="0.282192"/>
-            <point x="3134" y="0"/>
-          </FadeOut>
-        </Crossfade>
-      </Playlist>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj_id="3801" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="prisoner_ambient_7a814b" orig_diskstream_id="3800" frozen="no">
-        <Region id="3870" name="prisoner_ambient_7a814b.3" start="0" length="41284837" position="19080158" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4544" name="prisoner_ambient_7a814b.4" start="22161322" length="9590846" position="60361861" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="22161322" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4550" name="prisoner_ambient_7a814b.5" start="41270384" length="2534968" position="69989457" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="36566401" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Crossfade out="3870" in="4544" active="yes" follow-overlap="yes" fixed="no" length="3134" anchor-point="0" position="60361861">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="522" y="0.282192"/>
-            <point x="1044" y="0.518174"/>
-            <point x="1567" y="0.707946"/>
-            <point x="2089" y="0.851507"/>
-            <point x="2611" y="0.948859"/>
-            <point x="3134" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="522" y="0.948859"/>
-            <point x="1044" y="0.851507"/>
-            <point x="1567" y="0.707946"/>
-            <point x="2089" y="0.518174"/>
-            <point x="2611" y="0.282192"/>
-            <point x="3134" y="0"/>
-          </FadeOut>
-        </Crossfade>
-      </Playlist>
-    </MementoRedoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1356495157" tv_usec="831" name="add gain automation event">
-    <MementoCommand obj_id="3795" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="3795" default="0.132362559438" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>18990198 0.0428763665258884
-19348081 0.112247966229916
-21990238 0.0949043035507202
-22059641 0.065622054040432
-31457888 0.065622054040432
-31641637 0.0264462810009718
-57844294 0.0397330410778522
+  <UndoTransaction tv_sec="1356502653" tv_usec="81042" name="add automation event to Cutoff Frequency (Hz)">
+    <MementoCommand obj_id="5990" type_name="N6ARDOUR14AutomationListE">
+      <AutomationList id="5990" default="36.1194953918" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
+        <events>92685235 4.40999984741211
+92741907 674.867947449166
+93167616 643.30222020876
+93169664 4.40999984741211
+93306090 4.40999984741211
 </events>
       </AutomationList>
-      <AutomationList id="3795" default="0.132362559438" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>18990198 0.0428763665258884
-19348081 0.112247966229916
-21990238 0.0949043035507202
-22059641 0.065622054040432
-31457888 0.065622054040432
-31641637 0.0264462810009718
-57844294 0.0397330410778522
-69842457 0.0505007393658161
+      <AutomationList id="5990" default="36.1194953918" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
+        <events>92685235 4.40999984741211
+92741907 674.867947449166
+93167616 643.30222020876
+93169664 4.40999984741211
+93306090 4.40999984741211
+93398250 1683.33315223199
 </events>
       </AutomationList>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1356495159" tv_usec="148829" name="add gain automation event">
-    <MementoCommand obj_id="3795" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="3795" default="0.132362559438" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>18990198 0.0428763665258884
-19348081 0.112247966229916
-21990238 0.0949043035507202
-22059641 0.065622054040432
-31457888 0.065622054040432
-31641637 0.0264462810009718
-57844294 0.0397330410778522
-69842457 0.0505007393658161
+  <UndoTransaction tv_sec="1356502660" tv_usec="861796" name="automation event move">
+    <MementoUndoCommand obj_id="5990" type_name="N6ARDOUR14AutomationListE">
+      <AutomationList id="5990" default="36.1194953918" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
+        <events>92685235 4.40999984741211
+92741907 674.867947449166
+93167616 643.30222020876
+93169664 4.40999984741211
+93306090 4.40999984741211
+93398250 1683.33315223199
 </events>
       </AutomationList>
-      <AutomationList id="3795" default="0.132362559438" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>18990198 0.0428763665258884
-19348081 0.112247966229916
-21990238 0.0949043035507202
-22059641 0.065622054040432
-31457888 0.065622054040432
-31641637 0.0264462810009718
-57844294 0.0397330410778522
-69842457 0.0505007393658161
-70209956 0.111663319170475
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="5990" type_name="N6ARDOUR14AutomationListE">
+      <AutomationList id="5990" default="36.1194953918" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
+        <events>92685235 4.40999984741211
+92741907 674.867947449166
+93167616 643.30222020876
+93169664 4.40999984741211
+93306090 4.40999984741211
+93398250 163.287964100993
+</events>
+      </AutomationList>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1356502677" tv_usec="289454" name="automation event move">
+    <MementoUndoCommand obj_id="5990" type_name="N6ARDOUR14AutomationListE">
+      <AutomationList id="5990" default="36.1194953918" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
+        <events>92685235 4.40999984741211
+92741907 674.867947449166
+93167616 643.30222020876
+93169664 4.40999984741211
+93306090 4.40999984741211
+93398250 163.287964100993
+</events>
+      </AutomationList>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="5990" type_name="N6ARDOUR14AutomationListE">
+      <AutomationList id="5990" default="36.1194953918" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
+        <events>92685235 4.40999984741211
+92741907 674.867947449166
+93167616 643.30222020876
+93169664 4.40999984741211
+93306090 4.40999984741211
+93398250 163.287964100993
+</events>
+      </AutomationList>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1356502678" tv_usec="672042" name="add automation event to Cutoff Frequency (Hz)">
+    <MementoCommand obj_id="5990" type_name="N6ARDOUR14AutomationListE">
+      <AutomationList id="5990" default="36.1194953918" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
+        <events>92685235 4.40999984741211
+92741907 674.867947449166
+93167616 643.30222020876
+93169664 4.40999984741211
+93306090 4.40999984741211
+93398250 163.287964100993
+</events>
+      </AutomationList>
+      <AutomationList id="5990" default="36.1194953918" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
+        <events>92685235 4.40999984741211
+92741907 674.867947449166
+93167616 643.30222020876
+93169664 4.40999984741211
+93306090 4.40999984741211
+93322474 403.295097796504
+93398250 163.287964100993
 </events>
       </AutomationList>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1356495178" tv_usec="625003" name="solo change">
-    <MementoCommand obj_id="3793" type_name="N6ARDOUR10AudioTrackE">
-      <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=9:signal=9" mode="Normal" diskstream-id="3800">
-        <IO name="prisoner_ambient_7a814b" id="3793" active="yes" inputs="{system:capture_2}{system:capture_1}" outputs="{master/in 1}{master/in 2}" gain="0.050357889384" iolimits="1,-1,-1,-1">
-          <Panner linked="no" link_direction="SameDirection" bypassed="no">
-            <Output x="0" y="0"/>
-            <Output x="1" y="0"/>
-            <StreamPanner x="0.97497844696" type="Equal Power Stereo" muted="no">
-              <Automation>
-                <AutomationList id="3805" default="0" min_yval="0" max_yval="1" max_xval="0" state="Play" style="Absolute">
-                  <events>19073182 0.0267025828361511
-38844612 0
-66995011 0.97497845441103
+  <UndoTransaction tv_sec="1356502683" tv_usec="37749" name="automation event move">
+    <MementoUndoCommand obj_id="5990" type_name="N6ARDOUR14AutomationListE">
+      <AutomationList id="5990" default="36.1194953918" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
+        <events>92685235 4.40999984741211
+92741907 674.867947449166
+93167616 643.30222020876
+93169664 4.40999984741211
+93306090 4.40999984741211
+93322474 403.295097796504
+93398250 163.287964100993
 </events>
-                </AutomationList>
-              </Automation>
-              <controllable name="panner" id="3804"/>
-            </StreamPanner>
-            <StreamPanner x="0.262149363756" type="Equal Power Stereo" muted="no">
-              <Automation>
-                <AutomationList id="3808" default="0" min_yval="0" max_yval="1" max_xval="0" state="Play" style="Absolute">
-                  <events>19073182 0.18364429473877
-33589380 0.922413796186447
-40615588 0.999159482773393
-59975786 1
-73132240 0
-78497720 0
+      </AutomationList>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="5990" type_name="N6ARDOUR14AutomationListE">
+      <AutomationList id="5990" default="36.1194953918" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
+        <events>92685235 4.40999984741211
+92741907 674.867947449166
+93167616 643.30222020876
+93169664 4.40999984741211
+93306090 4.40999984741211
+93322474 403.295097796504
+93398250 403.295092154876
 </events>
-                </AutomationList>
-              </Automation>
-              <controllable name="panner" id="3807"/>
-            </StreamPanner>
-          </Panner>
-          <controllable name="gaincontrol" id="3794"/>
-          <Automation>
-            <AutomationList id="3795" default="0.132362559438" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-              <events>18990198 0.0428763665258884
-19348081 0.112247966229916
-21990238 0.0949043035507202
-22059641 0.065622054040432
-31457888 0.065622054040432
-31641637 0.0264462810009718
-57844294 0.0397330410778522
-69842457 0.0505007393658161
-70209956 0.111663319170475
+      </AutomationList>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1356502686" tv_usec="209525" name="automation event move">
+    <MementoUndoCommand obj_id="5990" type_name="N6ARDOUR14AutomationListE">
+      <AutomationList id="5990" default="36.1194953918" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
+        <events>92685235 4.40999984741211
+92741907 674.867947449166
+93167616 643.30222020876
+93169664 4.40999984741211
+93306090 4.40999984741211
+93322474 403.295097796504
+93398250 403.295092154876
 </events>
-            </AutomationList>
-          </Automation>
-        </IO>
-        <controllable name="solo" id="3797"/>
-        <controllable name="mute" id="3798"/>
-        <remote_control id="10"/>
-        <Insert type="ladspa" unique-id="1903" count="2">
-          <Redirect active="yes" placement="PostFader">
-            <IO name="GLAME Butterworth Lowpass" id="3911" active="yes" inputs="" outputs="" gain="1.000000000000" iolimits="-1,-1,-1,-1">
-              <Panner linked="no" link_direction="SameDirection" bypassed="no"/>
-              <controllable name="gaincontrol" id="3912"/>
-              <Automation>
-                <Automation/>
-              </Automation>
-            </IO>
-            <Automation visible=""/>
-          </Redirect>
-          <ladspa>
-            <port number="0" value="+1788.654907"/>
-            <controllable name="Cutoff Frequency (Hz)" id="3917"/>
-            <port number="1" value="+0.755000"/>
-            <controllable name="Resonance" id="3919"/>
-          </ladspa>
-          <controls>
-            <controllable name="Cutoff Frequency (Hz)" id="3917" parameter="0"/>
-            <controllable name="Resonance" id="3919" parameter="1"/>
-          </controls>
-          <PortAutomation>
-            <port number="0">
-              <AutomationList id="3918" default="36.1194953918" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
-            </port>
-            <port number="1">
-              <AutomationList id="3920" default="0.754999995232" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
-            </port>
-          </PortAutomation>
-        </Insert>
-        <Insert type="ladspa" unique-id="1795" count="1">
-          <Redirect active="yes" placement="PostFader">
-            <IO name="C* Plate2x2 - Versatile plate reverb, stereo inputs" id="3849" active="yes" inputs="" outputs="" gain="1.000000000000" iolimits="-1,-1,-1,-1">
-              <Panner linked="no" link_direction="SameDirection" bypassed="no"/>
-              <controllable name="gaincontrol" id="3850"/>
-              <Automation>
-                <Automation/>
-              </Automation>
-            </IO>
-            <Automation visible=""/>
-          </Redirect>
-          <ladspa>
-            <port number="2" value="+0.502000"/>
-            <controllable name="bandwidth" id="3853"/>
-            <port number="3" value="+0.193041"/>
-            <controllable name="tail" id="3855"/>
-            <port number="4" value="+0.332808"/>
-            <controllable name="damping" id="3857"/>
-            <port number="5" value="+0.162371"/>
-            <controllable name="blend" id="3859"/>
-          </ladspa>
-          <controls>
-            <controllable name="bandwidth" id="3853" parameter="2"/>
-            <controllable name="tail" id="3855" parameter="3"/>
-            <controllable name="damping" id="3857" parameter="4"/>
-            <controllable name="blend" id="3859" parameter="5"/>
-          </controls>
-          <PortAutomation>
-            <port number="2">
-              <AutomationList id="3854" default="0.502000033855" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
-            </port>
-            <port number="3">
-              <AutomationList id="3856" default="0.374500006437" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
-            </port>
-            <port number="4">
-              <AutomationList id="3858" default="0.250375002623" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
-            </port>
-            <port number="5">
-              <AutomationList id="3860" default="0.25" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
-            </port>
-          </PortAutomation>
-        </Insert>
-        <extra>
-          <GUI color="16829:10019:25503" shown_mixer="yes" shown_editor="yes" height="322">
-            <gain shown="yes" height="85"/>
-            <pan shown="yes" height="116"/>
-          </GUI>
-        </extra>
-        <alignment style="ExistingMaterial"/>
-        <controllable name="recenable" id="3799"/>
-      </Route>
-      <Route default-type="audio" muted="no" soloed="yes" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=9:signal=9" mode="Normal" diskstream-id="3800">
-        <IO name="prisoner_ambient_7a814b" id="3793" active="yes" inputs="{system:capture_2}{system:capture_1}" outputs="{master/in 1}{master/in 2}" gain="0.050357889384" iolimits="1,-1,-1,-1">
-          <Panner linked="no" link_direction="SameDirection" bypassed="no">
-            <Output x="0" y="0"/>
-            <Output x="1" y="0"/>
-            <StreamPanner x="0.97497844696" type="Equal Power Stereo" muted="no">
-              <Automation>
-                <AutomationList id="3805" default="0" min_yval="0" max_yval="1" max_xval="0" state="Play" style="Absolute">
-                  <events>19073182 0.0267025828361511
-38844612 0
-66995011 0.97497845441103
+      </AutomationList>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="5990" type_name="N6ARDOUR14AutomationListE">
+      <AutomationList id="5990" default="36.1194953918" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
+        <events>92685235 4.40999984741211
+92741907 674.867947449166
+93167616 643.30222020876
+93169664 4.40999984741211
+93306090 4.40999984741211
+93321216 243.290340118954
+93398250 403.295092154876
 </events>
-                </AutomationList>
-              </Automation>
-              <controllable name="panner" id="3804"/>
-            </StreamPanner>
-            <StreamPanner x="0.262149363756" type="Equal Power Stereo" muted="no">
-              <Automation>
-                <AutomationList id="3808" default="0" min_yval="0" max_yval="1" max_xval="0" state="Play" style="Absolute">
-                  <events>19073182 0.18364429473877
-33589380 0.922413796186447
-40615588 0.999159482773393
-59975786 1
-73132240 0
-78497720 0
+      </AutomationList>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1356502714" tv_usec="90564" name="automation event move">
+    <MementoUndoCommand obj_id="5990" type_name="N6ARDOUR14AutomationListE">
+      <AutomationList id="5990" default="36.1194953918" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
+        <events>92685235 4.40999984741211
+92741907 674.867947449166
+93167616 643.30222020876
+93169664 4.40999984741211
+93306090 4.40999984741211
+93321216 243.290340118954
+93398250 403.295092154876
 </events>
-                </AutomationList>
-              </Automation>
-              <controllable name="panner" id="3807"/>
-            </StreamPanner>
-          </Panner>
-          <controllable name="gaincontrol" id="3794"/>
-          <Automation>
-            <AutomationList id="3795" default="0.132362559438" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-              <events>18990198 0.0428763665258884
-19348081 0.112247966229916
-21990238 0.0949043035507202
-22059641 0.065622054040432
-31457888 0.065622054040432
-31641637 0.0264462810009718
-57844294 0.0397330410778522
-69842457 0.0505007393658161
-70209956 0.111663319170475
+      </AutomationList>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="5990" type_name="N6ARDOUR14AutomationListE">
+      <AutomationList id="5990" default="36.1194953918" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
+        <events>92685235 4.40999984741211
+92741907 674.867947449166
+93167616 643.30222020876
+93169664 4.40999984741211
+93306090 4.40999984741211
+93337600 243.290340118954
+93398250 403.295092154876
 </events>
-            </AutomationList>
-          </Automation>
-        </IO>
-        <controllable name="solo" id="3797"/>
-        <controllable name="mute" id="3798"/>
-        <remote_control id="10"/>
-        <Insert type="ladspa" unique-id="1903" count="2">
-          <Redirect active="yes" placement="PostFader">
-            <IO name="GLAME Butterworth Lowpass" id="3911" active="yes" inputs="" outputs="" gain="1.000000000000" iolimits="-1,-1,-1,-1">
-              <Panner linked="no" link_direction="SameDirection" bypassed="no"/>
-              <controllable name="gaincontrol" id="3912"/>
-              <Automation>
-                <Automation/>
-              </Automation>
-            </IO>
-            <Automation visible=""/>
-          </Redirect>
-          <ladspa>
-            <port number="0" value="+1788.654907"/>
-            <controllable name="Cutoff Frequency (Hz)" id="3917"/>
-            <port number="1" value="+0.755000"/>
-            <controllable name="Resonance" id="3919"/>
-          </ladspa>
-          <controls>
-            <controllable name="Cutoff Frequency (Hz)" id="3917" parameter="0"/>
-            <controllable name="Resonance" id="3919" parameter="1"/>
-          </controls>
-          <PortAutomation>
-            <port number="0">
-              <AutomationList id="3918" default="36.1194953918" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
-            </port>
-            <port number="1">
-              <AutomationList id="3920" default="0.754999995232" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
-            </port>
-          </PortAutomation>
-        </Insert>
-        <Insert type="ladspa" unique-id="1795" count="1">
-          <Redirect active="yes" placement="PostFader">
-            <IO name="C* Plate2x2 - Versatile plate reverb, stereo inputs" id="3849" active="yes" inputs="" outputs="" gain="1.000000000000" iolimits="-1,-1,-1,-1">
-              <Panner linked="no" link_direction="SameDirection" bypassed="no"/>
-              <controllable name="gaincontrol" id="3850"/>
-              <Automation>
-                <Automation/>
-              </Automation>
-            </IO>
-            <Automation visible=""/>
-          </Redirect>
-          <ladspa>
-            <port number="2" value="+0.502000"/>
-            <controllable name="bandwidth" id="3853"/>
-            <port number="3" value="+0.193041"/>
-            <controllable name="tail" id="3855"/>
-            <port number="4" value="+0.332808"/>
-            <controllable name="damping" id="3857"/>
-            <port number="5" value="+0.162371"/>
-            <controllable name="blend" id="3859"/>
-          </ladspa>
-          <controls>
-            <controllable name="bandwidth" id="3853" parameter="2"/>
-            <controllable name="tail" id="3855" parameter="3"/>
-            <controllable name="damping" id="3857" parameter="4"/>
-            <controllable name="blend" id="3859" parameter="5"/>
-          </controls>
-          <PortAutomation>
-            <port number="2">
-              <AutomationList id="3854" default="0.502000033855" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
-            </port>
-            <port number="3">
-              <AutomationList id="3856" default="0.374500006437" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
-            </port>
-            <port number="4">
-              <AutomationList id="3858" default="0.250375002623" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
-            </port>
-            <port number="5">
-              <AutomationList id="3860" default="0.25" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
-            </port>
-          </PortAutomation>
-        </Insert>
-        <extra>
-          <GUI color="16829:10019:25503" shown_mixer="yes" shown_editor="yes" height="322">
-            <gain shown="yes" height="85"/>
-            <pan shown="yes" height="116"/>
-          </GUI>
-        </extra>
-        <alignment style="ExistingMaterial"/>
-        <controllable name="recenable" id="3799"/>
-      </Route>
+      </AutomationList>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1356502732" tv_usec="695398" name="automation event move">
+    <MementoUndoCommand obj_id="5990" type_name="N6ARDOUR14AutomationListE">
+      <AutomationList id="5990" default="36.1194953918" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
+        <events>92685235 4.40999984741211
+92741907 674.867947449166
+93167616 643.30222020876
+93169664 4.40999984741211
+93306090 4.40999984741211
+93337600 243.290340118954
+93398250 403.295092154876
+</events>
+      </AutomationList>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="5990" type_name="N6ARDOUR14AutomationListE">
+      <AutomationList id="5990" default="36.1194953918" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
+        <events>92685235 4.40999984741211
+92741907 674.867947449166
+93167616 643.30222020876
+93169664 4.40999984741211
+93306090 164.414751883334
+93337600 243.290340118954
+93398250 403.295092154876
+</events>
+      </AutomationList>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1356502737" tv_usec="90205" name="automation event move">
+    <MementoUndoCommand obj_id="5990" type_name="N6ARDOUR14AutomationListE">
+      <AutomationList id="5990" default="36.1194953918" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
+        <events>92685235 4.40999984741211
+92741907 674.867947449166
+93167616 643.30222020876
+93169664 4.40999984741211
+93306090 164.414751883334
+93337600 243.290340118954
+93398250 403.295092154876
+</events>
+      </AutomationList>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="5990" type_name="N6ARDOUR14AutomationListE">
+      <AutomationList id="5990" default="36.1194953918" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
+        <events>92685235 4.40999984741211
+92741907 674.867947449166
+93167616 643.30222020876
+93169664 164.414751883334
+93306090 164.414751883334
+93337600 243.290340118954
+93398250 403.295092154876
+</events>
+      </AutomationList>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1356502813" tv_usec="67242" name="automation range drag">
+    <MementoUndoCommand obj_id="5990" type_name="N6ARDOUR14AutomationListE">
+      <AutomationList id="5990" default="36.1194953918" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
+        <events>92685235 4.40999984741211
+92741907 674.867947449166
+93167616 643.30222020876
+93169664 164.414751883334
+93306090 164.414751883334
+93337600 243.290340118954
+93398250 403.295092154876
+</events>
+      </AutomationList>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="5990" type_name="N6ARDOUR14AutomationListE">
+      <AutomationList id="5990" default="36.1194953918" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
+        <events>92685235 4.40999984741211
+92741907 674.867947449166
+93167616 643.30222020876
+93169664 164.414751883334
+93306090 164.414751883334
+93337600 243.290340118954
+93398250 403.295092154876
+</events>
+      </AutomationList>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1356502815" tv_usec="546688" name="add automation event to Cutoff Frequency (Hz)">
+    <MementoCommand obj_id="5990" type_name="N6ARDOUR14AutomationListE">
+      <AutomationList id="5990" default="36.1194953918" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
+        <events>92685235 4.40999984741211
+92741907 674.867947449166
+93167616 643.30222020876
+93169664 164.414751883334
+93306090 164.414751883334
+93337600 243.290340118954
+93398250 403.295092154876
+</events>
+      </AutomationList>
+      <AutomationList id="5990" default="36.1194953918" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
+        <events>92685235 4.40999984741211
+92741907 674.867947449166
+93167616 643.30222020876
+93169664 164.414751883334
+93265130 483.297476198721
+93306090 164.414751883334
+93337600 243.290340118954
+93398250 403.295092154876
+</events>
+      </AutomationList>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1356495207" tv_usec="318206" name="Region end trim">
-    <MementoUndoCommand obj_id="3801" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="prisoner_ambient_7a814b" orig_diskstream_id="3800" frozen="no">
-        <Region id="3870" name="prisoner_ambient_7a814b.3" start="0" length="41284837" position="19080158" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4544" name="prisoner_ambient_7a814b.4" start="22161322" length="9590846" position="60361861" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="22161322" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4550" name="prisoner_ambient_7a814b.5" start="41270384" length="2534968" position="69989457" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="36566401" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Crossfade out="3870" in="4544" active="yes" follow-overlap="yes" fixed="no" length="3134" anchor-point="0" position="60361861">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="522" y="0.282192"/>
-            <point x="1044" y="0.518174"/>
-            <point x="1567" y="0.707946"/>
-            <point x="2089" y="0.851507"/>
-            <point x="2611" y="0.948859"/>
-            <point x="3134" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="522" y="0.948859"/>
-            <point x="1044" y="0.851507"/>
-            <point x="1567" y="0.707946"/>
-            <point x="2089" y="0.518174"/>
-            <point x="2611" y="0.282192"/>
-            <point x="3134" y="0"/>
-          </FadeOut>
-        </Crossfade>
-      </Playlist>
+  <UndoTransaction tv_sec="1356502824" tv_usec="160008" name="automation event move">
+    <MementoUndoCommand obj_id="5990" type_name="N6ARDOUR14AutomationListE">
+      <AutomationList id="5990" default="36.1194953918" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
+        <events>92685235 4.40999984741211
+92741907 674.867947449166
+93167616 643.30222020876
+93169664 164.414751883334
+93265130 483.297476198721
+93306090 164.414751883334
+93337600 243.290340118954
+93398250 403.295092154876
+</events>
+      </AutomationList>
     </MementoUndoCommand>
-    <MementoRedoCommand obj_id="3801" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="prisoner_ambient_7a814b" orig_diskstream_id="3800" frozen="no">
-        <Region id="3870" name="prisoner_ambient_7a814b.3" start="0" length="41284837" position="19080158" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4544" name="prisoner_ambient_7a814b.4" start="22161322" length="9562174" position="60361861" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="22161322" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4550" name="prisoner_ambient_7a814b.5" start="41270384" length="2534968" position="69989457" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="36566401" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Crossfade out="3870" in="4544" active="yes" follow-overlap="yes" fixed="no" length="3134" anchor-point="0" position="60361861">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="522" y="0.282192"/>
-            <point x="1044" y="0.518174"/>
-            <point x="1567" y="0.707946"/>
-            <point x="2089" y="0.851507"/>
-            <point x="2611" y="0.948859"/>
-            <point x="3134" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="522" y="0.948859"/>
-            <point x="1044" y="0.851507"/>
-            <point x="1567" y="0.707946"/>
-            <point x="2089" y="0.518174"/>
-            <point x="2611" y="0.282192"/>
-            <point x="3134" y="0"/>
-          </FadeOut>
-        </Crossfade>
-      </Playlist>
-    </MementoRedoCommand>
-    <MementoRedoCommand obj_id="3801" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="prisoner_ambient_7a814b" orig_diskstream_id="3800" frozen="no">
-        <Region id="3870" name="prisoner_ambient_7a814b.3" start="0" length="41284837" position="19080158" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4544" name="prisoner_ambient_7a814b.4" start="22161322" length="9562174" position="60361861" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="22161322" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4550" name="prisoner_ambient_7a814b.5" start="41270384" length="2534968" position="69989457" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="36566401" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Crossfade out="3870" in="4544" active="yes" follow-overlap="yes" fixed="no" length="3134" anchor-point="0" position="60361861">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="522" y="0.282192"/>
-            <point x="1044" y="0.518174"/>
-            <point x="1567" y="0.707946"/>
-            <point x="2089" y="0.851507"/>
-            <point x="2611" y="0.948859"/>
-            <point x="3134" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="522" y="0.948859"/>
-            <point x="1044" y="0.851507"/>
-            <point x="1567" y="0.707946"/>
-            <point x="2089" y="0.518174"/>
-            <point x="2611" y="0.282192"/>
-            <point x="3134" y="0"/>
-          </FadeOut>
-        </Crossfade>
-      </Playlist>
+    <MementoRedoCommand obj_id="5990" type_name="N6ARDOUR14AutomationListE">
+      <AutomationList id="5990" default="36.1194953918" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
+        <events>92685235 4.40999984741211
+92741907 674.867947449166
+93167616 643.30222020876
+93169664 164.414751883334
+93265130 163.287964100993
+93306090 164.414751883334
+93337600 243.290340118954
+93398250 403.295092154876
+</events>
+      </AutomationList>
     </MementoRedoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1356495211" tv_usec="977053" name="Region start trim">
-    <MementoUndoCommand obj_id="3801" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="prisoner_ambient_7a814b" orig_diskstream_id="3800" frozen="no">
-        <Region id="3870" name="prisoner_ambient_7a814b.3" start="0" length="41284837" position="19080158" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4544" name="prisoner_ambient_7a814b.4" start="22161322" length="9562174" position="60361861" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="22161322" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4550" name="prisoner_ambient_7a814b.5" start="41270384" length="2534968" position="69989457" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="36566401" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Crossfade out="3870" in="4544" active="yes" follow-overlap="yes" fixed="no" length="3134" anchor-point="0" position="60361861">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="522" y="0.282192"/>
-            <point x="1044" y="0.518174"/>
-            <point x="1567" y="0.707946"/>
-            <point x="2089" y="0.851507"/>
-            <point x="2611" y="0.948859"/>
-            <point x="3134" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="522" y="0.948859"/>
-            <point x="1044" y="0.851507"/>
-            <point x="1567" y="0.707946"/>
-            <point x="2089" y="0.518174"/>
-            <point x="2611" y="0.282192"/>
-            <point x="3134" y="0"/>
-          </FadeOut>
-        </Crossfade>
-      </Playlist>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj_id="3801" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="prisoner_ambient_7a814b" orig_diskstream_id="3800" frozen="no">
-        <Region id="3870" name="prisoner_ambient_7a814b.3" start="0" length="41284837" position="19080158" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4544" name="prisoner_ambient_7a814b.4" start="22161322" length="9562174" position="60361861" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="22161322" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4550" name="prisoner_ambient_7a814b.5" start="41282672" length="2522680" position="70001745" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="36566401" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Crossfade out="3870" in="4544" active="yes" follow-overlap="yes" fixed="no" length="3134" anchor-point="0" position="60361861">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="522" y="0.282192"/>
-            <point x="1044" y="0.518174"/>
-            <point x="1567" y="0.707946"/>
-            <point x="2089" y="0.851507"/>
-            <point x="2611" y="0.948859"/>
-            <point x="3134" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="522" y="0.948859"/>
-            <point x="1044" y="0.851507"/>
-            <point x="1567" y="0.707946"/>
-            <point x="2089" y="0.518174"/>
-            <point x="2611" y="0.282192"/>
-            <point x="3134" y="0"/>
-          </FadeOut>
-        </Crossfade>
-      </Playlist>
-    </MementoRedoCommand>
-    <MementoRedoCommand obj_id="3801" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="prisoner_ambient_7a814b" orig_diskstream_id="3800" frozen="no">
-        <Region id="3870" name="prisoner_ambient_7a814b.3" start="0" length="41284837" position="19080158" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4544" name="prisoner_ambient_7a814b.4" start="22161322" length="9562174" position="60361861" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="22161322" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4550" name="prisoner_ambient_7a814b.5" start="41282672" length="2522680" position="70001745" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="36566401" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Crossfade out="3870" in="4544" active="yes" follow-overlap="yes" fixed="no" length="3134" anchor-point="0" position="60361861">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="522" y="0.282192"/>
-            <point x="1044" y="0.518174"/>
-            <point x="1567" y="0.707946"/>
-            <point x="2089" y="0.851507"/>
-            <point x="2611" y="0.948859"/>
-            <point x="3134" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="522" y="0.948859"/>
-            <point x="1044" y="0.851507"/>
-            <point x="1567" y="0.707946"/>
-            <point x="2089" y="0.518174"/>
-            <point x="2611" y="0.282192"/>
-            <point x="3134" y="0"/>
-          </FadeOut>
-        </Crossfade>
-      </Playlist>
-    </MementoRedoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1356495215" tv_usec="15294" name="region drag">
-    <MementoUndoCommand obj_id="3801" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="prisoner_ambient_7a814b" orig_diskstream_id="3800" frozen="no">
-        <Region id="3870" name="prisoner_ambient_7a814b.3" start="0" length="41284837" position="19080158" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4544" name="prisoner_ambient_7a814b.4" start="22161322" length="9562174" position="60361861" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="22161322" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4550" name="prisoner_ambient_7a814b.5" start="41282672" length="2522680" position="70001745" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="36566401" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Crossfade out="3870" in="4544" active="yes" follow-overlap="yes" fixed="no" length="3134" anchor-point="0" position="60361861">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="522" y="0.282192"/>
-            <point x="1044" y="0.518174"/>
-            <point x="1567" y="0.707946"/>
-            <point x="2089" y="0.851507"/>
-            <point x="2611" y="0.948859"/>
-            <point x="3134" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="522" y="0.948859"/>
-            <point x="1044" y="0.851507"/>
-            <point x="1567" y="0.707946"/>
-            <point x="2089" y="0.518174"/>
-            <point x="2611" y="0.282192"/>
-            <point x="3134" y="0"/>
-          </FadeOut>
-        </Crossfade>
-      </Playlist>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj_id="3801" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="prisoner_ambient_7a814b" orig_diskstream_id="3800" frozen="no">
-        <Region id="3870" name="prisoner_ambient_7a814b.3" start="0" length="41284837" position="19080158" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4544" name="prisoner_ambient_7a814b.4" start="22161322" length="9562174" position="60361861" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="22161322" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="no"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4550" name="prisoner_ambient_7a814b.5" start="41282672" length="2522680" position="69921873" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="36566401" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="3784" source-1="3786" channels="2" master-source-0="3784" master-source-1="3786">
-          <FadeIn default="yes" active="no"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Crossfade out="3870" in="4544" active="yes" follow-overlap="yes" fixed="no" length="3134" anchor-point="0" position="60361861">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="522" y="0.282192"/>
-            <point x="1044" y="0.518174"/>
-            <point x="1567" y="0.707946"/>
-            <point x="2089" y="0.851507"/>
-            <point x="2611" y="0.948859"/>
-            <point x="3134" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="522" y="0.948859"/>
-            <point x="1044" y="0.851507"/>
-            <point x="1567" y="0.707946"/>
-            <point x="2089" y="0.518174"/>
-            <point x="2611" y="0.282192"/>
-            <point x="3134" y="0"/>
-          </FadeOut>
-        </Crossfade>
-        <Crossfade out="4544" in="4550" active="yes" follow-overlap="yes" fixed="no" length="2162" anchor-point="0" position="69921873">
-          <FadeIn>
-            <point x="0" y="0"/>
-            <point x="360" y="0.282192"/>
-            <point x="720" y="0.518174"/>
-            <point x="1081" y="0.707946"/>
-            <point x="1441" y="0.851507"/>
-            <point x="1801" y="0.948859"/>
-            <point x="2162" y="1"/>
-          </FadeIn>
-          <FadeOut>
-            <point x="0" y="1"/>
-            <point x="360" y="0.948859"/>
-            <point x="720" y="0.851507"/>
-            <point x="1081" y="0.707946"/>
-            <point x="1441" y="0.518174"/>
-            <point x="1801" y="0.282192"/>
-            <point x="2162" y="0"/>
-          </FadeOut>
-        </Crossfade>
-      </Playlist>
-    </MementoRedoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1356495227" tv_usec="535216" name="solo change">
-    <MementoCommand obj_id="3793" type_name="N6ARDOUR10AudioTrackE">
-      <Route default-type="audio" muted="no" soloed="yes" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=9:signal=9" mode="Normal" diskstream-id="3800">
-        <IO name="prisoner_ambient_7a814b" id="3793" active="yes" inputs="{system:capture_2}{system:capture_1}" outputs="{master/in 1}{master/in 2}" gain="0.088864177465" iolimits="1,-1,-1,-1">
-          <Panner linked="no" link_direction="SameDirection" bypassed="no">
-            <Output x="0" y="0"/>
-            <Output x="1" y="0"/>
-            <StreamPanner x="0.97497844696" type="Equal Power Stereo" muted="no">
-              <Automation>
-                <AutomationList id="3805" default="0" min_yval="0" max_yval="1" max_xval="0" state="Play" style="Absolute">
-                  <events>19073182 0.0267025828361511
-38844612 0
-66995011 0.97497845441103
+  <UndoTransaction tv_sec="1356502827" tv_usec="154392" name="add automation event to Cutoff Frequency (Hz)">
+    <MementoCommand obj_id="5990" type_name="N6ARDOUR14AutomationListE">
+      <AutomationList id="5990" default="36.1194953918" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
+        <events>92685235 4.40999984741211
+92741907 674.867947449166
+93167616 643.30222020876
+93169664 164.414751883334
+93265130 163.287964100993
+93306090 164.414751883334
+93337600 243.290340118954
+93398250 403.295092154876
 </events>
-                </AutomationList>
-              </Automation>
-              <controllable name="panner" id="3804"/>
-            </StreamPanner>
-            <StreamPanner x="0.232530280948" type="Equal Power Stereo" muted="no">
-              <Automation>
-                <AutomationList id="3808" default="0" min_yval="0" max_yval="1" max_xval="0" state="Play" style="Absolute">
-                  <events>19073182 0.18364429473877
-33589380 0.922413796186447
-40615588 0.999159482773393
-59975786 1
-73132240 0
-78497720 0
+      </AutomationList>
+      <AutomationList id="5990" default="36.1194953918" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
+        <events>92685235 4.40999984741211
+92741907 674.867947449166
+93167616 643.30222020876
+93169664 164.414751883334
+93265130 163.287964100993
+93285610 883.30936820981
+93306090 164.414751883334
+93337600 243.290340118954
+93398250 403.295092154876
 </events>
-                </AutomationList>
-              </Automation>
-              <controllable name="panner" id="3807"/>
-            </StreamPanner>
-          </Panner>
-          <controllable name="gaincontrol" id="3794"/>
-          <Automation>
-            <AutomationList id="3795" default="0.132362559438" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-              <events>18990198 0.0428763665258884
-19348081 0.112247966229916
-21990238 0.0949043035507202
-22059641 0.065622054040432
-31457888 0.065622054040432
-31641637 0.0264462810009718
-57844294 0.0397330410778522
-69842457 0.0505007393658161
-70209956 0.111663319170475
-</events>
-            </AutomationList>
-          </Automation>
-        </IO>
-        <controllable name="solo" id="3797"/>
-        <controllable name="mute" id="3798"/>
-        <remote_control id="10"/>
-        <Insert type="ladspa" unique-id="1903" count="2">
-          <Redirect active="yes" placement="PostFader">
-            <IO name="GLAME Butterworth Lowpass" id="3911" active="yes" inputs="" outputs="" gain="1.000000000000" iolimits="-1,-1,-1,-1">
-              <Panner linked="no" link_direction="SameDirection" bypassed="no"/>
-              <controllable name="gaincontrol" id="3912"/>
-              <Automation>
-                <Automation/>
-              </Automation>
-            </IO>
-            <Automation visible=""/>
-          </Redirect>
-          <ladspa>
-            <port number="0" value="+1788.654907"/>
-            <controllable name="Cutoff Frequency (Hz)" id="3917"/>
-            <port number="1" value="+0.755000"/>
-            <controllable name="Resonance" id="3919"/>
-          </ladspa>
-          <controls>
-            <controllable name="Cutoff Frequency (Hz)" id="3917" parameter="0"/>
-            <controllable name="Resonance" id="3919" parameter="1"/>
-          </controls>
-          <PortAutomation>
-            <port number="0">
-              <AutomationList id="3918" default="36.1194953918" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
-            </port>
-            <port number="1">
-              <AutomationList id="3920" default="0.754999995232" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
-            </port>
-          </PortAutomation>
-        </Insert>
-        <Insert type="ladspa" unique-id="1795" count="1">
-          <Redirect active="yes" placement="PostFader">
-            <IO name="C* Plate2x2 - Versatile plate reverb, stereo inputs" id="3849" active="yes" inputs="" outputs="" gain="1.000000000000" iolimits="-1,-1,-1,-1">
-              <Panner linked="no" link_direction="SameDirection" bypassed="no"/>
-              <controllable name="gaincontrol" id="3850"/>
-              <Automation>
-                <Automation/>
-              </Automation>
-            </IO>
-            <Automation visible=""/>
-          </Redirect>
-          <ladspa>
-            <port number="2" value="+0.502000"/>
-            <controllable name="bandwidth" id="3853"/>
-            <port number="3" value="+0.193041"/>
-            <controllable name="tail" id="3855"/>
-            <port number="4" value="+0.332808"/>
-            <controllable name="damping" id="3857"/>
-            <port number="5" value="+0.162371"/>
-            <controllable name="blend" id="3859"/>
-          </ladspa>
-          <controls>
-            <controllable name="bandwidth" id="3853" parameter="2"/>
-            <controllable name="tail" id="3855" parameter="3"/>
-            <controllable name="damping" id="3857" parameter="4"/>
-            <controllable name="blend" id="3859" parameter="5"/>
-          </controls>
-          <PortAutomation>
-            <port number="2">
-              <AutomationList id="3854" default="0.502000033855" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
-            </port>
-            <port number="3">
-              <AutomationList id="3856" default="0.374500006437" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
-            </port>
-            <port number="4">
-              <AutomationList id="3858" default="0.250375002623" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
-            </port>
-            <port number="5">
-              <AutomationList id="3860" default="0.25" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
-            </port>
-          </PortAutomation>
-        </Insert>
-        <extra>
-          <GUI color="16829:10019:25503" shown_mixer="yes" shown_editor="yes" height="322">
-            <gain shown="yes" height="85"/>
-            <pan shown="yes" height="116"/>
-          </GUI>
-        </extra>
-        <alignment style="ExistingMaterial"/>
-        <controllable name="recenable" id="3799"/>
-      </Route>
-      <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=9:signal=9" mode="Normal" diskstream-id="3800">
-        <IO name="prisoner_ambient_7a814b" id="3793" active="yes" inputs="{system:capture_2}{system:capture_1}" outputs="{master/in 1}{master/in 2}" gain="0.088864177465" iolimits="1,-1,-1,-1">
-          <Panner linked="no" link_direction="SameDirection" bypassed="no">
-            <Output x="0" y="0"/>
-            <Output x="1" y="0"/>
-            <StreamPanner x="0.97497844696" type="Equal Power Stereo" muted="no">
-              <Automation>
-                <AutomationList id="3805" default="0" min_yval="0" max_yval="1" max_xval="0" state="Play" style="Absolute">
-                  <events>19073182 0.0267025828361511
-38844612 0
-66995011 0.97497845441103
-</events>
-                </AutomationList>
-              </Automation>
-              <controllable name="panner" id="3804"/>
-            </StreamPanner>
-            <StreamPanner x="0.232530280948" type="Equal Power Stereo" muted="no">
-              <Automation>
-                <AutomationList id="3808" default="0" min_yval="0" max_yval="1" max_xval="0" state="Play" style="Absolute">
-                  <events>19073182 0.18364429473877
-33589380 0.922413796186447
-40615588 0.999159482773393
-59975786 1
-73132240 0
-78497720 0
-</events>
-                </AutomationList>
-              </Automation>
-              <controllable name="panner" id="3807"/>
-            </StreamPanner>
-          </Panner>
-          <controllable name="gaincontrol" id="3794"/>
-          <Automation>
-            <AutomationList id="3795" default="0.132362559438" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-              <events>18990198 0.0428763665258884
-19348081 0.112247966229916
-21990238 0.0949043035507202
-22059641 0.065622054040432
-31457888 0.065622054040432
-31641637 0.0264462810009718
-57844294 0.0397330410778522
-69842457 0.0505007393658161
-70209956 0.111663319170475
-</events>
-            </AutomationList>
-          </Automation>
-        </IO>
-        <controllable name="solo" id="3797"/>
-        <controllable name="mute" id="3798"/>
-        <remote_control id="10"/>
-        <Insert type="ladspa" unique-id="1903" count="2">
-          <Redirect active="yes" placement="PostFader">
-            <IO name="GLAME Butterworth Lowpass" id="3911" active="yes" inputs="" outputs="" gain="1.000000000000" iolimits="-1,-1,-1,-1">
-              <Panner linked="no" link_direction="SameDirection" bypassed="no"/>
-              <controllable name="gaincontrol" id="3912"/>
-              <Automation>
-                <Automation/>
-              </Automation>
-            </IO>
-            <Automation visible=""/>
-          </Redirect>
-          <ladspa>
-            <port number="0" value="+1788.654907"/>
-            <controllable name="Cutoff Frequency (Hz)" id="3917"/>
-            <port number="1" value="+0.755000"/>
-            <controllable name="Resonance" id="3919"/>
-          </ladspa>
-          <controls>
-            <controllable name="Cutoff Frequency (Hz)" id="3917" parameter="0"/>
-            <controllable name="Resonance" id="3919" parameter="1"/>
-          </controls>
-          <PortAutomation>
-            <port number="0">
-              <AutomationList id="3918" default="36.1194953918" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
-            </port>
-            <port number="1">
-              <AutomationList id="3920" default="0.754999995232" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
-            </port>
-          </PortAutomation>
-        </Insert>
-        <Insert type="ladspa" unique-id="1795" count="1">
-          <Redirect active="yes" placement="PostFader">
-            <IO name="C* Plate2x2 - Versatile plate reverb, stereo inputs" id="3849" active="yes" inputs="" outputs="" gain="1.000000000000" iolimits="-1,-1,-1,-1">
-              <Panner linked="no" link_direction="SameDirection" bypassed="no"/>
-              <controllable name="gaincontrol" id="3850"/>
-              <Automation>
-                <Automation/>
-              </Automation>
-            </IO>
-            <Automation visible=""/>
-          </Redirect>
-          <ladspa>
-            <port number="2" value="+0.502000"/>
-            <controllable name="bandwidth" id="3853"/>
-            <port number="3" value="+0.193041"/>
-            <controllable name="tail" id="3855"/>
-            <port number="4" value="+0.332808"/>
-            <controllable name="damping" id="3857"/>
-            <port number="5" value="+0.162371"/>
-            <controllable name="blend" id="3859"/>
-          </ladspa>
-          <controls>
-            <controllable name="bandwidth" id="3853" parameter="2"/>
-            <controllable name="tail" id="3855" parameter="3"/>
-            <controllable name="damping" id="3857" parameter="4"/>
-            <controllable name="blend" id="3859" parameter="5"/>
-          </controls>
-          <PortAutomation>
-            <port number="2">
-              <AutomationList id="3854" default="0.502000033855" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
-            </port>
-            <port number="3">
-              <AutomationList id="3856" default="0.374500006437" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
-            </port>
-            <port number="4">
-              <AutomationList id="3858" default="0.250375002623" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
-            </port>
-            <port number="5">
-              <AutomationList id="3860" default="0.25" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Off" style="Absolute"/>
-            </port>
-          </PortAutomation>
-        </Insert>
-        <extra>
-          <GUI color="16829:10019:25503" shown_mixer="yes" shown_editor="yes" height="322">
-            <gain shown="yes" height="85"/>
-            <pan shown="yes" height="116"/>
-          </GUI>
-        </extra>
-        <alignment style="ExistingMaterial"/>
-        <controllable name="recenable" id="3799"/>
-      </Route>
+      </AutomationList>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1356495281" tv_usec="423831" name="split">
-    <MementoCommand obj_id="3087" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="vip2_merge" orig_diskstream_id="1559" frozen="no">
-        <Region id="1949" name="vip2_merge.7" start="0" length="629778" position="17919369" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="1539" source-1="1541" source-2="1543" source-3="1545" channels="4" master-source-0="1539" master-source-1="1541" master-source-2="1543" master-source-3="1545">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4204" name="vip2_merge.7" start="629778" length="466074" position="18557154" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="629778" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="1539" source-1="1541" source-2="1543" source-3="1545" channels="4" master-source-0="1539" master-source-1="1541" master-source-2="1543" master-source-3="1545">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4251" name="vip2_merge.9" start="1095852" length="5120729" position="19179386" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="1095852" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="1539" source-1="1541" source-2="1543" source-3="1545" channels="4" master-source-0="1539" master-source-1="1541" master-source-2="1543" master-source-3="1545">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4257" name="vip2_merge.10" start="6216581" length="127357" position="24336565" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="3" sync-position="6216581" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="1539" source-1="1541" source-2="1543" source-3="1545" channels="4" master-source-0="1539" master-source-1="1541" master-source-2="1543" master-source-3="1545">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4296" name="vip2_merge.11" start="6279752" length="117111" position="24491182" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="4" sync-position="6279752" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="3944" source-1="3946" source-2="3948" source-3="3950" channels="4" master-source-0="3944" master-source-1="3946" master-source-2="3948" master-source-3="3950">
-          <FadeIn default="yes" active="no"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4302" name="vip2_merge.12" start="6396863" length="52080218" position="24648058" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="5" sync-position="6396863" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="3944" source-1="3946" source-2="3948" source-3="3950" channels="4" master-source-0="3944" master-source-1="3946" master-source-2="3948" master-source-3="3950">
-          <FadeIn default="yes" active="no"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-      </Playlist>
-      <Playlist name="vip2_merge" orig_diskstream_id="1559" frozen="no">
-        <Region id="1949" name="vip2_merge.7" start="0" length="629778" position="17919369" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="1539" source-1="1541" source-2="1543" source-3="1545" channels="4" master-source-0="1539" master-source-1="1541" master-source-2="1543" master-source-3="1545">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4204" name="vip2_merge.7" start="629778" length="466074" position="18557154" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="629778" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="1539" source-1="1541" source-2="1543" source-3="1545" channels="4" master-source-0="1539" master-source-1="1541" master-source-2="1543" master-source-3="1545">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4251" name="vip2_merge.9" start="1095852" length="5120729" position="19179386" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="1095852" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="1539" source-1="1541" source-2="1543" source-3="1545" channels="4" master-source-0="1539" master-source-1="1541" master-source-2="1543" master-source-3="1545">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4257" name="vip2_merge.10" start="6216581" length="127357" position="24336565" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="3" sync-position="6216581" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="1539" source-1="1541" source-2="1543" source-3="1545" channels="4" master-source-0="1539" master-source-1="1541" master-source-2="1543" master-source-3="1545">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4296" name="vip2_merge.11" start="6279752" length="117111" position="24491182" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="4" sync-position="6279752" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="3944" source-1="3946" source-2="3948" source-3="3950" channels="4" master-source-0="3944" master-source-1="3946" master-source-2="3948" master-source-3="3950">
-          <FadeIn default="yes" active="no"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4620" name="vip2_merge.15" start="6396863" length="45341749" position="24648058" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="5" sync-position="6396863" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="3944" source-1="3946" source-2="3948" source-3="3950" channels="4" master-source-0="3944" master-source-1="3946" master-source-2="3948" master-source-3="3950">
-          <FadeIn default="yes" active="no"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4626" name="vip2_merge.16" start="51738612" length="6738469" position="69989807" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="6" sync-position="51738612" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="3944" source-1="3946" source-2="3948" source-3="3950" channels="4" master-source-0="3944" master-source-1="3946" master-source-2="3948" master-source-3="3950">
-          <FadeIn default="yes" active="no"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-      </Playlist>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1356495283" tv_usec="508010" name="region drag">
-    <MementoUndoCommand obj_id="3087" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="vip2_merge" orig_diskstream_id="1559" frozen="no">
-        <Region id="1949" name="vip2_merge.7" start="0" length="629778" position="17919369" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="1539" source-1="1541" source-2="1543" source-3="1545" channels="4" master-source-0="1539" master-source-1="1541" master-source-2="1543" master-source-3="1545">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4204" name="vip2_merge.7" start="629778" length="466074" position="18557154" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="629778" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="1539" source-1="1541" source-2="1543" source-3="1545" channels="4" master-source-0="1539" master-source-1="1541" master-source-2="1543" master-source-3="1545">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4251" name="vip2_merge.9" start="1095852" length="5120729" position="19179386" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="1095852" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="1539" source-1="1541" source-2="1543" source-3="1545" channels="4" master-source-0="1539" master-source-1="1541" master-source-2="1543" master-source-3="1545">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4257" name="vip2_merge.10" start="6216581" length="127357" position="24336565" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="3" sync-position="6216581" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="1539" source-1="1541" source-2="1543" source-3="1545" channels="4" master-source-0="1539" master-source-1="1541" master-source-2="1543" master-source-3="1545">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4296" name="vip2_merge.11" start="6279752" length="117111" position="24491182" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="4" sync-position="6279752" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="3944" source-1="3946" source-2="3948" source-3="3950" channels="4" master-source-0="3944" master-source-1="3946" master-source-2="3948" master-source-3="3950">
-          <FadeIn default="yes" active="no"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4620" name="vip2_merge.15" start="6396863" length="45341749" position="24648058" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="5" sync-position="6396863" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="3944" source-1="3946" source-2="3948" source-3="3950" channels="4" master-source-0="3944" master-source-1="3946" master-source-2="3948" master-source-3="3950">
-          <FadeIn default="yes" active="no"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4626" name="vip2_merge.16" start="51738612" length="6738469" position="69989807" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="6" sync-position="51738612" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="3944" source-1="3946" source-2="3948" source-3="3950" channels="4" master-source-0="3944" master-source-1="3946" master-source-2="3948" master-source-3="3950">
-          <FadeIn default="yes" active="no"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-      </Playlist>
+  <UndoTransaction tv_sec="1356502829" tv_usec="166202" name="automation event move">
+    <MementoUndoCommand obj_id="5990" type_name="N6ARDOUR14AutomationListE">
+      <AutomationList id="5990" default="36.1194953918" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
+        <events>92685235 4.40999984741211
+92741907 674.867947449166
+93167616 643.30222020876
+93169664 164.414751883334
+93265130 163.287964100993
+93285610 883.30936820981
+93306090 164.414751883334
+93337600 243.290340118954
+93398250 403.295092154876
+</events>
+      </AutomationList>
     </MementoUndoCommand>
-    <MementoRedoCommand obj_id="3087" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="vip2_merge" orig_diskstream_id="1559" frozen="no">
-        <Region id="1949" name="vip2_merge.7" start="0" length="629778" position="17919369" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="1539" source-1="1541" source-2="1543" source-3="1545" channels="4" master-source-0="1539" master-source-1="1541" master-source-2="1543" master-source-3="1545">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4204" name="vip2_merge.7" start="629778" length="466074" position="18557154" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="629778" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="1539" source-1="1541" source-2="1543" source-3="1545" channels="4" master-source-0="1539" master-source-1="1541" master-source-2="1543" master-source-3="1545">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4251" name="vip2_merge.9" start="1095852" length="5120729" position="19179386" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="1095852" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="1539" source-1="1541" source-2="1543" source-3="1545" channels="4" master-source-0="1539" master-source-1="1541" master-source-2="1543" master-source-3="1545">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4257" name="vip2_merge.10" start="6216581" length="127357" position="24336565" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="3" sync-position="6216581" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="1539" source-1="1541" source-2="1543" source-3="1545" channels="4" master-source-0="1539" master-source-1="1541" master-source-2="1543" master-source-3="1545">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4296" name="vip2_merge.11" start="6279752" length="117111" position="24491182" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="4" sync-position="6279752" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="3944" source-1="3946" source-2="3948" source-3="3950" channels="4" master-source-0="3944" master-source-1="3946" master-source-2="3948" master-source-3="3950">
-          <FadeIn default="yes" active="no"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4620" name="vip2_merge.15" start="6396863" length="45341749" position="24648058" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="5" sync-position="6396863" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="3944" source-1="3946" source-2="3948" source-3="3950" channels="4" master-source-0="3944" master-source-1="3946" master-source-2="3948" master-source-3="3950">
-          <FadeIn default="yes" active="no"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4626" name="vip2_merge.16" start="51738612" length="6738469" position="70163316" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="6" sync-position="51738612" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="3944" source-1="3946" source-2="3948" source-3="3950" channels="4" master-source-0="3944" master-source-1="3946" master-source-2="3948" master-source-3="3950">
-          <FadeIn default="yes" active="no"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-      </Playlist>
+    <MementoRedoCommand obj_id="5990" type_name="N6ARDOUR14AutomationListE">
+      <AutomationList id="5990" default="36.1194953918" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
+        <events>92685235 4.40999984741211
+92741907 674.867947449166
+93167616 643.30222020876
+93169664 164.414751883334
+93265130 163.287964100993
+93285610 643.30222020876
+93306090 164.414751883334
+93337600 243.290340118954
+93398250 403.295092154876
+</events>
+      </AutomationList>
     </MementoRedoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1356495301" tv_usec="510995" name="region drag">
-    <MementoUndoCommand obj_id="3087" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="vip2_merge" orig_diskstream_id="1559" frozen="no">
-        <Region id="1949" name="vip2_merge.7" start="0" length="629778" position="17919369" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="1539" source-1="1541" source-2="1543" source-3="1545" channels="4" master-source-0="1539" master-source-1="1541" master-source-2="1543" master-source-3="1545">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4204" name="vip2_merge.7" start="629778" length="466074" position="18557154" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="629778" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="1539" source-1="1541" source-2="1543" source-3="1545" channels="4" master-source-0="1539" master-source-1="1541" master-source-2="1543" master-source-3="1545">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4251" name="vip2_merge.9" start="1095852" length="5120729" position="19179386" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="1095852" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="1539" source-1="1541" source-2="1543" source-3="1545" channels="4" master-source-0="1539" master-source-1="1541" master-source-2="1543" master-source-3="1545">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4257" name="vip2_merge.10" start="6216581" length="127357" position="24336565" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="3" sync-position="6216581" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="1539" source-1="1541" source-2="1543" source-3="1545" channels="4" master-source-0="1539" master-source-1="1541" master-source-2="1543" master-source-3="1545">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4296" name="vip2_merge.11" start="6279752" length="117111" position="24491182" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="4" sync-position="6279752" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="3944" source-1="3946" source-2="3948" source-3="3950" channels="4" master-source-0="3944" master-source-1="3946" master-source-2="3948" master-source-3="3950">
-          <FadeIn default="yes" active="no"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4620" name="vip2_merge.15" start="6396863" length="45341749" position="24648058" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="5" sync-position="6396863" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="3944" source-1="3946" source-2="3948" source-3="3950" channels="4" master-source-0="3944" master-source-1="3946" master-source-2="3948" master-source-3="3950">
-          <FadeIn default="yes" active="no"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4626" name="vip2_merge.16" start="51738612" length="6738469" position="70163316" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="6" sync-position="51738612" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="3944" source-1="3946" source-2="3948" source-3="3950" channels="4" master-source-0="3944" master-source-1="3946" master-source-2="3948" master-source-3="3950">
-          <FadeIn default="yes" active="no"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-      </Playlist>
+  <UndoTransaction tv_sec="1356502839" tv_usec="202275" name="automation event move">
+    <MementoUndoCommand obj_id="5990" type_name="N6ARDOUR14AutomationListE">
+      <AutomationList id="5990" default="36.1194953918" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
+        <events>92685235 4.40999984741211
+92741907 674.867947449166
+93167616 643.30222020876
+93169664 164.414751883334
+93265130 163.287964100993
+93285610 643.30222020876
+93306090 164.414751883334
+93337600 243.290340118954
+93398250 403.295092154876
+</events>
+      </AutomationList>
     </MementoUndoCommand>
-    <MementoRedoCommand obj_id="3087" type_name="N6ARDOUR13AudioPlaylistE">
-      <Playlist name="vip2_merge" orig_diskstream_id="1559" frozen="no">
-        <Region id="1949" name="vip2_merge.7" start="0" length="629778" position="17919369" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="1539" source-1="1541" source-2="1543" source-3="1545" channels="4" master-source-0="1539" master-source-1="1541" master-source-2="1543" master-source-3="1545">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4204" name="vip2_merge.7" start="629778" length="466074" position="18557154" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="1" sync-position="629778" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="1539" source-1="1541" source-2="1543" source-3="1545" channels="4" master-source-0="1539" master-source-1="1541" master-source-2="1543" master-source-3="1545">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4251" name="vip2_merge.9" start="1095852" length="5120729" position="19179386" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="1095852" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="1539" source-1="1541" source-2="1543" source-3="1545" channels="4" master-source-0="1539" master-source-1="1541" master-source-2="1543" master-source-3="1545">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4257" name="vip2_merge.10" start="6216581" length="127357" position="24336565" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="3" sync-position="6216581" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="1539" source-1="1541" source-2="1543" source-3="1545" channels="4" master-source-0="1539" master-source-1="1541" master-source-2="1543" master-source-3="1545">
-          <FadeIn default="yes" active="yes"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4296" name="vip2_merge.11" start="6279752" length="117111" position="24491182" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="4" sync-position="6279752" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="3944" source-1="3946" source-2="3948" source-3="3950" channels="4" master-source-0="3944" master-source-1="3946" master-source-2="3948" master-source-3="3950">
-          <FadeIn default="yes" active="no"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4620" name="vip2_merge.15" start="6396863" length="45341749" position="24648058" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="5" sync-position="6396863" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="3944" source-1="3946" source-2="3948" source-3="3950" channels="4" master-source-0="3944" master-source-1="3946" master-source-2="3948" master-source-3="3950">
-          <FadeIn default="yes" active="no"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-        <Region id="4626" name="vip2_merge.16" start="51738612" length="6738469" position="70041860" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="6" sync-position="51738612" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeOut,External" scale-gain="1" source-0="3944" source-1="3946" source-2="3948" source-3="3950" channels="4" master-source-0="3944" master-source-1="3946" master-source-2="3948" master-source-3="3950">
-          <FadeIn default="yes" active="no"/>
-          <FadeOut default="yes" active="yes"/>
-          <Envelope default="yes"/>
-          <extra>
-            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-          </extra>
-        </Region>
-      </Playlist>
+    <MementoRedoCommand obj_id="5990" type_name="N6ARDOUR14AutomationListE">
+      <AutomationList id="5990" default="36.1194953918" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Play" style="Absolute">
+        <events>92685235 4.40999984741211
+92741907 674.867947449166
+93167616 643.30222020876
+93169664 164.414751883334
+93265130 163.287964100993
+93285610 323.292716136915
+93306090 164.414751883334
+93337600 243.290340118954
+93398250 403.295092154876
+</events>
+      </AutomationList>
     </MementoRedoCommand>
   </UndoTransaction>
 </UndoHistory>
