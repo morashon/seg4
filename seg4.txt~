@@ -889,25 +889,24 @@ _Thisone: Ok, but -- I don't know.  Jesus.  This whole thing has screwed up my s
 _Annai: Which was probably never that grounded to begin with.  That's why an a-hole like Morashon can play you like a fiddle.  Just give me the code; I'll peel back the next layer of his fucking onion.
 
 {time=2093}
-_Thisone: (pauses) Ok.  Here it is. 
+_Thisone: Ok.  Here it is. 
 
 {nudge=-1.5}
 Thisone transfers data to Annai
 
-{nudge=2.75}
+{nudge=1}
 Annai disappears.
 
 {time=2097}
 _Annai: Thanks.  Later.
 
-{time=2100}
+{time=2101}
+{hold=15}
 Scene: Thisone's sim.  He is lying down, hands behind head. A message pops up on his monitor.
 From: Annai
 Subject: Am I real?
-Nope. Code. Bye
-
-{nudge=2}
-Thisone gets up, goes to terminal, tries to contact Annai.  Annai avatar appears:
+Nope. Code. Bye
+Thisone gets up, goes to terminal, tries to contact Annai.  Annai avatar appears in a recorded message.
 
 {time=2104}
 _Annai bot: 
@@ -915,12 +914,15 @@ Hi.  Sorry, I'm out to lunch.  Or fishing.  Or traveling to another planet. 
 THIS IS MY BOT  
 Leave a message.
 
-{nudge=1.2}
+{nudge=4}
 Fade out. 
-Fade in -- repeated scenes, leaving messages etc. Fade out. 
+Fade in -- repeated scenes, leaving messages etc. 
 
 {time=2113}
 _Thisone: Annai -- talk to me.  Please.  Don't just disappear.
 
-{time=2119}
+{nudge=-3}
+Fade out. 
+
+{time=2125}
 
