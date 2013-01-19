@@ -197,7 +197,7 @@ _Morashon: Not up to my usual standards, I think.  "Holding the Chair"?  What in
 {time=507}
 _Thisone: Oh, I thought it meant, you know, like a chairman?
 
-_Morashon: Chairman of the board.  Is that it?  Why not holding my share?  Or breathing the air?
+_Morashon: Chairman of the board.  Is that it?  Why not "holding my share", or "breathing the air"?
 
 _Thisone: (nervous) I don't know, it sounded right.  I liked it anyway.
 
@@ -205,10 +205,13 @@ _Morashon: I'm sure you did.  Everyone liked it.  Morashon is hot.  The newest t
 
 _Annai: You've never cared about that before.  I thought your plan was long-term influence.
 
+{time=539}
+{nudge=-2}
 _Morashon: You need a flame to start a fire.  Fame is the flame that fans the meme.  But it won't work unless I control every aspect of everything.  I cannot be subverted, or interfered with.  I won't stand for it!
 
 _Annai: (after a silence) I'm not sure what you're talking about.
 
+{time=555.5}
 _Morashon: I didn't sing that fucking song!  Someone is screwing with me.  Someone who will soon be very, very sorry.  I'm tracerouting the incident as we speak.  It's only a matter of time until I find out what is going on around here, and believe me I will put a stop to it.  Whoever is behind this madness will pay dearly for their poor judgement.
 
 All the other avatars disappear suddenly, or make gasping, dying sounds.  Soon it is just the three of them, and a few virtual corpses.  The music stops abruptly, replaced by the sound of wind through the trees.
