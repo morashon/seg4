@@ -3,10 +3,12 @@ Scene: Morashon performing.  Huge venue, wild crowd.  Numbers indicate > 10M onl
 {time=2}
 _Morashon: Thank you, thank you.  You are all too kind.  Please remember to visit the site; I've just posted a new essay, "Towards a Game-Theoretical Approach to Morality: Propagating Trust."  I want to play one more (stops talking, looks blank)
 
-{time=19}
-_Morashon: (Voice sounds strange) Um, excuse me.  We -- er, I am going to play one more song tonight.  (mumbles uncharacteristically) Here goes nothing.
-
+{nudge=10}
 song: Like Am I Real
+
+{time=19}
+{hold=20}
+_Morashon: (Voice sounds strange) Um, excuse me.  We -- er, I am going to play one more song tonight.  (mumbles uncharacteristically) Here goes nothing.
 
 {time=75}
 _Morashon:
@@ -67,22 +69,23 @@ Like I am real (I am real)
 Like I can deal (I can deal)
 With what I feel (what I feel...)
 
+{nudge=6}
+(solo -- played by the Ogre)
+
 {time=203.5}
 {hold=15}
 _Like, "Am I Real?"
 
-(solo -- played by the Ogre)
-
 {time=230.5}
 _Nebulous plans
 Backed up by hopeless demands
-    (Like am I real)
+(Like am I real)
 
 {time=237}
 
-Devious schemes
+_Devious schemes
 Dressed up like innocent dreams
-    (Like am I real)
+(Like am I real)
 
 {time=243}
 _Be what you are
@@ -106,9 +109,8 @@ Cheers and applause.  Thisone and Annai appear in the foreground (Not near stage
 
 {time=348.5}
 _Morashon: That was -- thank you, that was all for tonight.  I -- I'll be here again, as many of you know.  It's all on the site.  I -- there was a slight malfunction.  I need to review the logs.  Thank you for coming.
-
-Morashon disappears; the music stops abruptly.  Everyone looks slightly surprised; this is clearly not the routine.  People start shouting, "Music!" and "D-J! D-J!".  Generic techno starts up; people start dancing and talking again.
-Dancey-trancey music in background
+Morashon disappears; everyone looks slightly surprised -- this is clearly not the routine.  
+Techno music starts playing; people start dancing and talking again.
 
 {time=367}
 _Thisone: heh.  That was --

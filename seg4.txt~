@@ -3,10 +3,12 @@ Scene: Morashon performing.  Huge venue, wild crowd.  Numbers indicate > 10M onl
 {time=2}
 _Morashon: Thank you, thank you.  You are all too kind.  Please remember to visit the site; I've just posted a new essay, "Towards a Game-Theoretical Approach to Morality: Propagating Trust."  I want to play one more (stops talking, looks blank)
 
-{time=19}
-_Morashon: (Voice sounds strange) Um, excuse me.  We -- er, I am going to play one more song tonight.  (mumbles uncharacteristically) Here goes nothing.
-
+{nudge=10}
 song: Like Am I Real
+
+{time=19}
+{hold=20}
+_Morashon: (Voice sounds strange) Um, excuse me.  We -- er, I am going to play one more song tonight.  (mumbles uncharacteristically) Here goes nothing.
 
 {time=75}
 _Morashon:
@@ -67,22 +69,23 @@ Like I am real (I am real)
 Like I can deal (I can deal)
 With what I feel (what I feel...)
 
+{nudge=6}
+(solo -- played by the Ogre)
+
 {time=203.5}
 {hold=15}
 _Like, "Am I Real?"
 
-(solo -- played by the Ogre)
-
 {time=230.5}
 _Nebulous plans
 Backed up by hopeless demands
-    (Like am I real)
+(Like am I real)
 
 {time=237}
 
-Devious schemes
+_Devious schemes
 Dressed up like innocent dreams
-    (Like am I real)
+(Like am I real)
 
 {time=243}
 _Be what you are
@@ -889,7 +892,7 @@ _Thisone: Ok, but -- I don't know.  Jesus.  This whole thing has screwed up my s
 _Annai: Which was probably never that grounded to begin with.  That's why an a-hole like Morashon can play you like a fiddle.  Just give me the code; I'll peel back the next layer of his fucking onion.
 
 {time=2093}
-_Thisone: Ok.  Here it is. 
+_Thisone: Ok. Here it is. 
 
 {nudge=-1.5}
 Thisone transfers data to Annai
