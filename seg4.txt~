@@ -11,7 +11,7 @@ song: Like Am I Real
 _Morashon: (Voice sounds strange) Um, excuse me.  We -- er, I am going to play one more song tonight.  (mumbles uncharacteristically) Here goes nothing.
 
 {time=75}
-_Morashon:
+_Thisone(as Morashon):
 You are the one
 You shine as bright as the sun
 I barely light up the room
@@ -70,6 +70,7 @@ Like I can deal (I can deal)
 With what I feel (what I feel...)
 
 {nudge=6}
+{hold=22}
 (solo -- played by the Ogre)
 
 {time=203.5}
@@ -110,8 +111,10 @@ Cheers and applause.  Thisone and Annai appear in the foreground (Not near stage
 {time=348.5}
 _Morashon: That was -- thank you, that was all for tonight.  I -- I'll be here again, as many of you know.  It's all on the site.  I -- there was a slight malfunction.  I need to review the logs.  Thank you for coming.
 
-Morashon disappears; the music stops abruptly.  Everyone looks slightly surprised; this is clearly not the routine.  People start shouting, "Music!" and "D-J! D-J!".  Generic techno starts up; people start dancing and talking again.
-Dancey-trancey music in background
+{nudge=-1.5}
+{hold=15}
+Morashon disappears; everyone looks slightly surprised -- this is clearly not the routine.  
+Techno music starts playing; people start dancing and talking again.
 
 {time=367}
 _Thisone: heh.  That was --
@@ -138,6 +141,7 @@ _Thisone: Let's go backstage and see what's up.
 _Annai: Ok.
 
 {nudge=-3}
+{hold=14}
 They move through the crowd to the VIP door.  The bouncer waves Annai through, but puts his hand up to bar Thisone.  Annai talks to him; he pauses (communicating), then gruffly lets Thisone through.
 
 {time=406}
@@ -152,7 +156,7 @@ _Annai: Morashon is probably a bit overloaded right now.  Like he said, he's rev
 {time=419}
 _Thisone: I'll bet.
 
-They approach the dominatrix 'bot guarding the inner sanctum.  She stands silent for 10 seconds, then nods them through.
+They approach the dominatrix 'bot guarding the inner sanctum.  She stands silent for a second, then nods them through.
 
 {nudge=1}
 _Dominatrix (to Thisone): You again.
