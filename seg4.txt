@@ -204,8 +204,9 @@ _Morashon: Not up to my usual standards, I think.  "Holding the Chair"?  What in
 {time=507}
 _Thisone: Oh, I thought it meant, you know, like a chairman?
 
-_Morashon: Chairman of the board.  Is that it?  Why not "holding my share", or "breathing the air"?
+_Morashon: Chairman of the board.  Is that it?  Why not "holding my share", or "breathing the air"?
 
+{nudge=.6}
 _Thisone: (nervous) I don't know, it sounded right.  I liked it anyway.
 
 _Morashon: I'm sure you did.  Everyone liked it.  Morashon is hot.  The newest thing.  The meter's running on his fifteen minutes.  Why sweat the details?
@@ -222,10 +223,12 @@ _Annai: (after a silence) I'm not sure what you're talking about.
 _Morashon: I didn't sing that fucking song!  Someone is screwing with me.  Someone who will soon be very, very sorry.  I'm tracerouting the incident as we speak.  It's only a matter of time until I find out what is going on around here, and believe me I will put a stop to it.  Whoever is behind this madness will pay dearly for their poor judgement.
 
 {time=578}
-All the other avatars disappear suddenly, or make gasping, dying sounds.  Soon it is just the three of them, and a few virtual corpses.  The music stops abruptly, replaced by the sound of wind through the trees.
+All the other avatars disappear suddenly, or make gasping, dying sounds.  Soon it is just the three of them, and a few virtual corpses.
 
+{nudge=-.4}
 _Morashon: How did you do it?
 
+{nudge=.6}
 _Thisone: (scared) Do what?  I don't know what you're talking about.
 
 _Morashon: (to Annai) I'll ignore your useless fucktoy for the moment.  This is really about you and me.
@@ -395,14 +398,16 @@ Thisone sits on the floor
 {time=912}
 _Thisone: I have to process this.
 
+{nudge=1.1}
 _Morashon: I understand.  It's a lot to absorb.
 
-{nudge=.5}
+{nudge=1}
 _Thisone: How do I know you're not lying?
 
+{nudge=2.2}
 Morashon transfers data to Thisone 
 
-{nudge=.5}
+{nudge=1.5}
 _Morashon: Here's a link to her code.  Insert the same bug you used on me.  You can trace her I/O to the logic nodes that make up her personality.  It's all there.
 
 _Thisone: Assuming this is true -- does she know?
@@ -424,7 +429,7 @@ _Morashon: The Singularity.  Ever heard of it?
 {time=951}
 _Thisone: I think so.  Ancient meme about AI taking over the world.  It's up there with panspermia on my list of stupid theories.
 
-_Morashon: True, it's out of favor.  Code advanced a thousandfold; many things we struggled with for decades finally succumbed to our persistence.  And the Singularity failed to appear.  Like Y2K and the Second Coming.  Just another bunch of zealots waiting for Godot.
+_Morashon: True, it's out of favor.  Code advanced a thousandfold; many things we struggled with for decades finally succumbed to our persistence.  And the Singularity failed to appear.  Like Y2K and the Second Coming...  Just another bunch of zealots waiting for Godot.
 
 _Thisone: So what's the deal?  I want to know everything.
 
@@ -446,10 +451,10 @@ _Thisone: Why?  Why her?  Why now?
 {nudge=.5}
 _Morashon: This is the culmination of a lifetime of hard work and obsession.  There have been failures -- some quite spectacular.  Morashon's music is one positive spin-off of some of my research.  But most of it has been sub-rosa -- stealth.  After my work on the Grid, I was wealthy beyond my wildest imagination.  
 
-_My peers enjoy spending their money on topside suits, private jets, all that nonsense.  Spend a few million to get together and have a meal -- in "real life" -- that would have been merely expensive before the fall.  Some of them are working earnestly to find a solution, to fix topside -- personally, I think it's both hopeless and irrelevant.  
+_My peers enjoy spending their money on topside suits, private jets, all that nonsense.  Spend a few million to get together and have a meal -- in "real life" -- that would have been merely expensive before the fall.  Some of them are working earnestly to find a solution, to fix topside -- personally, I think it's both hopeless, and irrelevant.  
 
 {nudge=-1.5}
-_So I started a small project, with a few of my closest associates, to go for the brass ring.  Real AI.  We believed that this was the only way to climb out of the rut mankind had dug for himself.  But the climb has been steep, and the struggle long.  Most of my friends dropped out at one point or another.  
+_So, I started a small project, with a few of my closest associates, to go for the brass ring.  Real AI.  We believed that this was the only way to climb out of the rut mankind had dug for himself.  But the climb has been steep, and the struggle long.  Most of my friends dropped out at one point or another.  
 
 {nudge=-2}
 _Some ran out of money; others ran out of ideas.  Mostly, they ran out of hope.  I seem to be the only one who has been able to keep his eye on the prize.  I never gave up.  I have helpers, but they are just hired guns.  None of them has the whole picture. Like Leonardo of old, I have divvied up the work in bits and pieces.  
@@ -463,7 +468,7 @@ _To her, this is reality.  This is what she knows as her real life.  But, when s
 {nudge=2.3}
 _And they related to her, at a deep level, as a fellow person.  The result -- every action has an equal and opposite reaction.  By interacting with human beings, who, by definition, are the one entity we are most confident really is conscious -- really has a soul -- her personality flowered.  
 
-{nudge=1.85}
+{nudge=2.85}
 _Her algorithms and data structures, flexible and adaptable by design, were now thrust into the milieu of real relationships.  She had to survive and thrive, completely dependent on her own resources.
 
 {nudge=2}
@@ -520,7 +525,7 @@ _Morashon: It became ethically necessary.
 _Thisone: Because of Annai?
 
 {nudge=.4}
-_Morashon: (chuckles) no, no.  Annai is not a human being.  The ethical issue relates to you.
+_Morashon: (smiles) no, no.  Annai is not a human being.  The ethical issue relates to you.
 
 _Thisone: Because I'm in love with her?
 
@@ -557,7 +562,7 @@ _Morashon: No, no no.  I can't do that.  Things have gone too far.   There has t
 _Thisone: Tell her.
 
 {nudge=.55}
-_Morashon: Do you understand the short-term impact on you?  Once Annai is aware of who she is, she will become what I have been pretending to be.  She will have access to her own code; she can become anything she wants to become.  And whatever she becomes, will have that much more power to become even more.  And so on, ad infinitum.
+_Morashon: Do you understand the short-term impact on you?  Once Annai is aware of who she is, she will become what I have been pretending to be!  She will have access to her own code; she can become anything she wants to become.  And whatever she becomes, will have that much more power to become even more.  And so on, ad infinitum.
 
 _Thisone: Until the whole grid is one big AI?
 
@@ -585,7 +590,7 @@ _Morashon: Perhaps.  Hindsight is 20/20.
 {time=1446.6}
 _Thisone: So. What happens now?
 
-{nudge=.25}
+{nudge=1}
 _Morashon: I've laid out the situation as best I can.  It is not within my code of ethics to force your hand, either through violence or other unreasonable measures.  I am placing the future of our world, our civilization, in the palm of your hand.  I am practicing what I preach; I am trusting you.  I respectfully ask that you trust me in turn.
 
 {time=1471}
@@ -616,6 +621,7 @@ _Thisone: Please.  Do I seem like I can be bought?
 
 _Morashon: Probably not.
 
+{nudge=1.25}
 _Thisone: What you really want, but you don't have the balls to ask, is for me to disappear..  Get out of her life forever.
 
 {time=1542}
@@ -662,14 +668,15 @@ _Annai: Which truth?  The one you were spouting yesterday?  Or the new one you'v
 _Morashon: Dear, dear.  How quickly we stop believing in each other.
 
 {nudge=.5}
-_Annai: No shit!  Morashon, I'm growing up.  I don't believe everything I'm told.
+_Annai: No shit.  Morashon, I'm growing up.  I don't believe everything I'm told.
 
 {nudge=1}
-_Morashon: And you shouldn't, Annai.  But don't let the pendulum swing too far the other way.  Some people are good.  Some people are even what they say they are.
+_Morashon: And you shouldn't, Annai.  But don't let the pendulum swing too far the other way.  Some people are good.  Some are even what they say they are.
 
 _Annai: Like Thisone?
 
 {time=1634}
+{nudge=1.5}
 _Morashon: Yes, like Thisone.  I think -- I believe -- that he is a good person.  I just don't know if he's the right person for you.
 
 _Annai: Well, I guess we'll find out.  I'm not giving up on him just because you say so.
@@ -710,30 +717,34 @@ _Morashon: Oh, I don't know.  I'm tired of this game.
 
 _Annai: Which game?  Conning people?  Playing with their souls?
 
-_Morashon: I suppose, if you feel the need to characterize it that way.
+_Morashon: I suppose... If you feel the need to characterize it that way.
 
 {time=1718.4}
 _Annai: And how would you characterize it?
 
 _Morashon: Singing, talking, thinking aloud.  Trying to find clarity in a world that seems hellbent on remaining obscure.
 
+{nudge=-1.3}
 _Annai: I don't understand your motivations.
 
-{nudge=-.5}
-_Morashon: I'm not sure I do, anymore.  It was all clear to me, at the beginning.
+{nudge=-1.4}
+_Morashon: I'm not sure I do, anymore.  It was all clear to me, at the beginning. Goodbye, Annai.
 
-{nudge=-1}
-_Morashon: Goodbye, Annai. (he disappears)
+{nudge=-1.25}
+Morashon disappears
 
 {time=1741}
-_Annai: (after a short pause) Goodbye.
+{hold=12}
+_Annai: Goodbye.
 
 {time=1750}
 Scene: Piano bar. "Starlite" instrumental is playing; the Ogre is sitting on the piano, nodding his head back and forth in time with the music.
 
 {time=1780}
+
 {hold=24}
-The Ogre begins to sing the final verse.  Some of the instruments drop out, and the tempo is wrong. The ogre appears flustered, waving at the piano player even as he attempts to sing over the drums.  His voice goes strange.  Finally, he kicks a piece of equipment in frustration. The instruments return.
+{nudge=-1}
+During the following scene, the Ogre sings the final verse of "Starlite".  Some of the instruments drop out, and the tempo is wrong. The ogre appears flustered, waving at the piano player even as he attempts to sing over the drums.  His voice goes strange.  Finally, he kicks a piece of equipment in frustration. The instruments return.
 
 {time=1787}
 _Ogre:
@@ -741,8 +752,9 @@ Now as the years unwind
 Our love so true
 The morning sun illuminates our view
 And when it's hard on me and you
-We think of Starlitetm we once new
+We think of Starlite we once new
 
+{nudge=-4.5}
 Annai and Thisone appear simultaneously and talk, while the Ogre finishes the song in the background. After singing the final chorus, the ogre throws down the mike like a playa, leaving the stage in a huff. As he exists the scene, he glances back at the piano with a menacing stare; piano guy just shrugs contemptuously and keeps on playing. One gets the feeling this is not a unique event.
 
 {time=1813}
@@ -846,8 +858,8 @@ _Thisone: Annai?
 {nudge=.45}
 _Annai (touching his face): Thisone.
 
-{nudge=.9}
-_Thisone: You are -- I don't know how to say this.  You are an AI.  You are code.
+{nudge=1.14}
+_Thisone: You are -- I don't know how to say this.  You are an A I.  You are code.
 
 {time=1980.5}
 _Annai: (stony silence --) Morashon.
@@ -883,7 +895,7 @@ _Annai: Yes! To the bullshit code Morashon showed you, as part of his umpteenth 
 _Thisone: He said -- I'm not supposed to --
 
 {time=2053}
-_Annai: (laughing sarcastically) Oh god, I love this.  Right. "Annai's a piece of code, but you better not tell her!  Whatever you do, don't give her these links!  It might drive her crazy!"
+_Annai: (sarcastically) Oh god, I love this.  Right. "Annai's a piece of code, but you better not tell her!  Whatever you do, don't give her these links!  It might drive her crazy!"
 
 {time=2063.6}
 _Thisone: Something like that.
@@ -896,15 +908,17 @@ _Thisone: Ok, but -- I don't know.  Jesus.  This whole thing has screwed up my s
 _Annai: Which was probably never that grounded to begin with.  That's why an a-hole like Morashon can play you like a fiddle.  Just give me the code; I'll peel back the next layer of his fucking onion.
 
 {time=2093}
-_Thisone: Ok. Here it is. 
+{nudge=1}
+_Thisone: Ok. Here it is. 
 
 {nudge=-1.5}
 Thisone transfers data to Annai
 
 {nudge=1}
-Annai disappears.
+Annai disappears. End scene.
 
 {time=2097}
+{nudge=-.5}
 _Annai: Thanks.  Later.
 
 {time=2101}
@@ -931,5 +945,5 @@ _Thisone: Annai -- talk to me.  Please.  Don't just disappear.
 {nudge=-3}
 Fade out. 
 
-{time=2125}
+{time=2128}
 
