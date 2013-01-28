@@ -921,15 +921,20 @@ Annai disappears. End scene.
 {nudge=-.5}
 _Annai: Thanks.  Later.
 
-{time=2101}
+{time=2103.3}
 {hold=15}
-Scene: Thisone's sim.  He is lying down, hands behind head. A message pops up on his monitor.
-From: Annai
-Subject: Am I real?
-Nope. Code. Bye
-Thisone gets up, goes to terminal, tries to contact Annai.  Annai avatar appears in a recorded message.
+Scene: Thisone's sim.  He is lying down, hands behind head. A message pops up on his monitor:
+================
+FROM: Annai
+SUBJECT: Am I real?
+MESSAGE: Nope. Code. Bye
+================
 
-{time=2104}
+{nudge=8}
+{hold=15}
+Scenes of Thisone repeatedly attempting to contact Annai. Annai's recorded avatar appears on his terminal.
+
+{time=2113}
 _Annai bot: 
 Hi.  Sorry, I'm out to lunch.  Or fishing.  Or traveling to another planet.  
 THIS IS MY BOT  
@@ -939,11 +944,11 @@ Leave a message.
 Fade out. 
 Fade in -- repeated scenes, leaving messages etc. 
 
-{time=2113}
+{time=2122}
 _Thisone: Annai -- talk to me.  Please.  Don't just disappear.
 
 {nudge=-3}
 Fade out. 
 
-{time=2128}
+{time=2136}
 
