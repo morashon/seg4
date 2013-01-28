@@ -11,7 +11,7 @@ song: Like Am I Real
 _Morashon: (Voice sounds strange) Um, excuse me.  We -- er, I am going to play one more song tonight.  (mumbles uncharacteristically) Here goes nothing.
 
 {time=75}
-_Thisone(as Morashon):
+_Thisone/Annai(as Morashon):
 You are the one
 You shine as bright as the sun
 I barely light up the room
@@ -944,7 +944,7 @@ Leave a message.
 Fade out. 
 Fade in -- repeated scenes, leaving messages etc. 
 
-{time=2122}
+{time=2122.6}
 _Thisone: Annai -- talk to me.  Please.  Don't just disappear.
 
 {nudge=-3}
