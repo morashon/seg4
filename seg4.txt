@@ -72,7 +72,7 @@ Like I am real (I am real)
 Like I can deal (I can deal)
 With what I feel (what I feel...)
 
-{nudge=6}
+{nudge=14}
 {hold=22}
 The Ogre plays a guitar solo
 
