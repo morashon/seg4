@@ -301,7 +301,7 @@ Suddenly, Annai freezes, and Thisone comes back to life.
 {nudge=-1}
 _Thisone: What's wrong with her?
 
-_Morashon: Never mind that.  She'll be fine.  We need to talk.
+_Morashon: Nevermind that.  She'll be fine.  We need to talk.
 
 {time=707}
 _Thisone: I'm getting the hell out of here.
