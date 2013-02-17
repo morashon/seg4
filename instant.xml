@@ -51,7 +51,7 @@
         <Port name="master/audio_out 2"/>
       </Channel>
     </ExportChannelConfiguration>
-    <ExportFormat id="6faba3b7-80c5-43b1-9ed4-c70e49ebf2bd"/>
+    <ExportFormat id="c3174ecf-dd67-45b5-9ebe-2bdf6cab7a2d"/>
     <ExportFilename>
       <Folder relative="true" path="/export"/>
       <Field name="label" enabled="true" value="seg4c"/>
