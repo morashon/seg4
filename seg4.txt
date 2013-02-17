@@ -74,7 +74,8 @@ With what I feel (what I feel...)
 
 {nudge=14}
 {hold=22}
-The Ogre plays a guitar solo
+The Ogre plays a guitar solo.  
+His technique is limited.
 
 {time=203.5}
 {hold=15}
@@ -408,7 +409,7 @@ _Morashon: I understand.  It's a lot to absorb.
 _Thisone: How do I know you're not lying?
 
 {nudge=2.2}
-http://www.github.com/morashon
+http://www.morashon.com
 
 {nudge=1.5}
 _Morashon: Here's a link to her code.  Insert the same bug you used on me.  You can trace her I/O to the logic nodes that make up her personality.  It's all there.
