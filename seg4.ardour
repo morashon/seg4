@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="3001" name="seg4" sample-rate="44100" id-counter="16648" event-counter="0">
+<Session version="3001" name="seg4" sample-rate="44100" id-counter="20844" event-counter="0">
   <Config>
     <Option name="xfade-choice" value="ConstantPowerMinus3dB"/>
     <Option name="destructive-xfade-msecs" value="2"/>
@@ -5633,31 +5633,31 @@
     <Route id="18" name="master" default-type="audio" flags="MasterOut" active="yes" phase-invert="00" denormal-protection="no" meter-point="MeterPostFader" order-keys="EditorSort=0:MixerSort=0" self-solo="no" soloed-by-upstream="0" soloed-by-downstream="0" solo-isolated="no" solo-safe="no">
       <IO name="master" id="18" direction="Input" default-type="audio" user-latency="0">
         <Port type="audio" name="master/audio_in 1">
-          <Connection other="ThisoneVIP/audio_out 1"/>
           <Connection other="Dominatrix/audio_out 1"/>
-          <Connection other="starlite_instr/audio_out 1"/>
           <Connection other="AnnaiConcert/audio_out 1"/>
           <Connection other="ruf_starlite_893988/audio_out 1"/>
-          <Connection other="MorashonVIP/audio_out 1"/>
-          <Connection other="AnnaiVIP/audio_out 1"/>
-          <Connection other="ThisoneConcert/audio_out 1"/>
-          <Connection other="prisoner_ambient_7a814b/audio_out 1"/>
           <Connection other="starlite_theme_d4cba6/audio_out 1"/>
+          <Connection other="ThisoneConcert/audio_out 1"/>
+          <Connection other="AnnaiVIP/audio_out 1"/>
+          <Connection other="prisoner_ambient_7a814b/audio_out 1"/>
+          <Connection other="ThisoneVIP/audio_out 1"/>
+          <Connection other="starlite_instr/audio_out 1"/>
+          <Connection other="MorashonVIP/audio_out 1"/>
           <Connection other="change_dance_ruf_74da47/audio_out 1"/>
           <Connection other="ruf_real_3e8274/audio_out 1"/>
           <Connection other="concert2a/audio_out 1"/>
         </Port>
         <Port type="audio" name="master/audio_in 2">
-          <Connection other="ThisoneVIP/audio_out 2"/>
           <Connection other="Dominatrix/audio_out 2"/>
-          <Connection other="starlite_instr/audio_out 2"/>
           <Connection other="AnnaiConcert/audio_out 2"/>
           <Connection other="ruf_starlite_893988/audio_out 2"/>
-          <Connection other="MorashonVIP/audio_out 2"/>
-          <Connection other="AnnaiVIP/audio_out 2"/>
-          <Connection other="ThisoneConcert/audio_out 2"/>
-          <Connection other="prisoner_ambient_7a814b/audio_out 2"/>
           <Connection other="starlite_theme_d4cba6/audio_out 2"/>
+          <Connection other="ThisoneConcert/audio_out 2"/>
+          <Connection other="AnnaiVIP/audio_out 2"/>
+          <Connection other="prisoner_ambient_7a814b/audio_out 2"/>
+          <Connection other="ThisoneVIP/audio_out 2"/>
+          <Connection other="starlite_instr/audio_out 2"/>
+          <Connection other="MorashonVIP/audio_out 2"/>
           <Connection other="change_dance_ruf_74da47/audio_out 2"/>
           <Connection other="ruf_real_3e8274/audio_out 2"/>
           <Connection other="concert2a/audio_out 2"/>
@@ -6097,7 +6097,7 @@
       <MuteMaster mute-point="PreFader,PostFader,Listen,Main" muted="no"/>
       <RemoteControl id="0"/>
       <Pannable>
-        <Controllable name="pan-azimuth" id="11848" flags="" value="0.256756761590"/>
+        <Controllable name="pan-azimuth" id="11848" flags="" value="0.337837845087"/>
         <Controllable name="pan-width" id="11852" flags="" value="0.000000000000"/>
         <Controllable name="pan-elevation" id="11850" flags="" value="0.000000000000"/>
         <Controllable name="pan-frontback" id="11854" flags="" value="0.000000000000"/>
@@ -6143,7 +6143,7 @@
       <MuteMaster mute-point="PreFader,PostFader,Listen,Main" muted="no"/>
       <RemoteControl id="0"/>
       <Pannable>
-        <Controllable name="pan-azimuth" id="11881" flags="" value="0.662162157329"/>
+        <Controllable name="pan-azimuth" id="11881" flags="" value="0.662162184715"/>
         <Controllable name="pan-width" id="11885" flags="" value="0.000000000000"/>
         <Controllable name="pan-elevation" id="11883" flags="" value="0.000000000000"/>
         <Controllable name="pan-frontback" id="11887" flags="" value="0.000000000000"/>
@@ -6317,15 +6317,15 @@
       <MuteMaster mute-point="PreFader,PostFader,Listen,Main" muted="no"/>
       <RemoteControl id="0"/>
       <Pannable>
-        <Controllable name="pan-azimuth" id="11997" flags="" value="0.270491808653"/>
-        <Controllable name="pan-width" id="12001" flags="" value="0.540983617306"/>
+        <Controllable name="pan-azimuth" id="11997" flags="" value="0.385245918250"/>
+        <Controllable name="pan-width" id="12001" flags="" value="0.770491836501"/>
         <Controllable name="pan-elevation" id="11999" flags="" value="0.000000000000"/>
         <Controllable name="pan-frontback" id="12003" flags="" value="0.000000000000"/>
         <Controllable name="pan-lfe" id="12005" flags="" value="0.000000000000"/>
         <Automation/>
       </Pannable>
       <Processor id="12008" name="Amp" active="yes" user-latency="0" type="amp">
-        <Controllable name="gaincontrol" id="12010" flags="GainLike" value="0.802280664444"/>
+        <Controllable name="gaincontrol" id="12010" flags="GainLike" value="0.778123199940"/>
       </Processor>
       <Processor id="1992" name="Plate reverb" active="yes" user-latency="0" type="ladspa" unique-id="1423" count="1">
         <ladspa last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="yes">
@@ -6372,7 +6372,7 @@
         <Automation/>
       </Pannable>
       <Processor id="12041" name="Amp" active="yes" user-latency="0" type="amp">
-        <Controllable name="gaincontrol" id="12043" flags="GainLike" value="1.261691689491"/>
+        <Controllable name="gaincontrol" id="12043" flags="GainLike" value="1.212451338768"/>
       </Processor>
       <Processor id="2005" name="Plate reverb" active="yes" user-latency="0" type="ladspa" unique-id="1423" count="1">
         <ladspa last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="yes">
@@ -6410,15 +6410,15 @@
       <MuteMaster mute-point="PreFader,PostFader,Listen,Main" muted="no"/>
       <RemoteControl id="0"/>
       <Pannable>
-        <Controllable name="pan-azimuth" id="12063" flags="" value="0.500000000000"/>
-        <Controllable name="pan-width" id="12067" flags="" value="1.000000000000"/>
+        <Controllable name="pan-azimuth" id="12063" flags="" value="0.549180327869"/>
+        <Controllable name="pan-width" id="12067" flags="" value="0.901639344262"/>
         <Controllable name="pan-elevation" id="12065" flags="" value="0.000000000000"/>
         <Controllable name="pan-frontback" id="12069" flags="" value="0.000000000000"/>
         <Controllable name="pan-lfe" id="12071" flags="" value="0.000000000000"/>
         <Automation/>
       </Pannable>
       <Processor id="12074" name="Amp" active="yes" user-latency="0" type="amp">
-        <Controllable name="gaincontrol" id="12076" flags="GainLike" value="1.278405904770"/>
+        <Controllable name="gaincontrol" id="12076" flags="GainLike" value="1.228715181351"/>
       </Processor>
       <Processor id="2018" name="Plate reverb" active="yes" user-latency="0" type="ladspa" unique-id="1423" count="1">
         <ladspa last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="yes">
@@ -12559,8 +12559,8 @@
         <Object id="automation 11962" height="68" visible="0"/>
         <Object id="automation 11966" height="68" visible="0"/>
         <Object id="route 1805" color="40378:2601:9467"/>
-        <Object id="rtav 1805" height="68" visible="1"/>
-        <Object id="automation 12010" height="68" visible="0"/>
+        <Object id="rtav 1805" height="74" visible="1"/>
+        <Object id="automation 12010" height="68" visible="1"/>
         <Object id="automation 11997" height="68" visible="0"/>
         <Object id="automation 12001" height="68" visible="0"/>
         <Object id="route 1837" color="22097:13317:12902"/>

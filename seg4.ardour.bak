@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="3001" name="seg4" sample-rate="44100" id-counter="16648" event-counter="0">
+<Session version="3001" name="seg4" sample-rate="44100" id-counter="18746" event-counter="0">
   <Config>
     <Option name="xfade-choice" value="ConstantPowerMinus3dB"/>
     <Option name="destructive-xfade-msecs" value="2"/>
@@ -5639,8 +5639,8 @@
           <Connection other="AnnaiConcert/audio_out 1"/>
           <Connection other="ruf_starlite_893988/audio_out 1"/>
           <Connection other="MorashonVIP/audio_out 1"/>
-          <Connection other="AnnaiVIP/audio_out 1"/>
           <Connection other="ThisoneConcert/audio_out 1"/>
+          <Connection other="AnnaiVIP/audio_out 1"/>
           <Connection other="prisoner_ambient_7a814b/audio_out 1"/>
           <Connection other="starlite_theme_d4cba6/audio_out 1"/>
           <Connection other="change_dance_ruf_74da47/audio_out 1"/>
@@ -5654,8 +5654,8 @@
           <Connection other="AnnaiConcert/audio_out 2"/>
           <Connection other="ruf_starlite_893988/audio_out 2"/>
           <Connection other="MorashonVIP/audio_out 2"/>
-          <Connection other="AnnaiVIP/audio_out 2"/>
           <Connection other="ThisoneConcert/audio_out 2"/>
+          <Connection other="AnnaiVIP/audio_out 2"/>
           <Connection other="prisoner_ambient_7a814b/audio_out 2"/>
           <Connection other="starlite_theme_d4cba6/audio_out 2"/>
           <Connection other="change_dance_ruf_74da47/audio_out 2"/>
@@ -5827,7 +5827,7 @@
 </events>
           </AutomationList>
         </Automation>
-        <Controllable name="gaincontrol" id="11702" flags="GainLike" value="0.246955477549"/>
+        <Controllable name="gaincontrol" id="11702" flags="GainLike" value="0.164453502319"/>
       </Processor>
       <Processor id="11703" name="Meter" active="yes" user-latency="0" type="meter"/>
       <Processor id="11704" name="change_dance_ruf_74da47" active="yes" user-latency="0" own-input="yes" own-output="no" output="change_dance_ruf_74da47" type="main-outs" role="Main">
@@ -5903,7 +5903,7 @@
 </events>
           </AutomationList>
         </Automation>
-        <Controllable name="gaincontrol" id="11733" flags="GainLike" value="1.573727511002"/>
+        <Controllable name="gaincontrol" id="11733" flags="GainLike" value="0.044864993542"/>
       </Processor>
       <Processor id="478" name="C* Plate2x2 - Versatile plate reverb, stereo inputs" active="yes" user-latency="0" type="ladspa" unique-id="1795" count="1">
         <Automation>
@@ -5938,12 +5938,12 @@
           <Port number="2" value="+0.502000"/>
           <Port number="3" value="+0.281840"/>
           <Port number="4" value="+0.250375"/>
-          <Port number="5" value="+0.280507"/>
+          <Port number="5" value="+0.000000"/>
         </ladspa>
         <Controllable name="bandwidth" id="11742" flags="" value="0.501999974251" parameter="2"/>
         <Controllable name="tail" id="11744" flags="" value="0.281839996576" parameter="3"/>
         <Controllable name="damping" id="11746" flags="" value="0.250375002623" parameter="4"/>
-        <Controllable name="blend" id="11748" flags="" value="0.280506879091" parameter="5"/>
+        <Controllable name="blend" id="11748" flags="" value="0.000000000000" parameter="5"/>
       </Processor>
       <Processor id="7397" name="SC4" active="yes" user-latency="0" type="ladspa" unique-id="1882" count="1">
         <ladspa last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="yes">
@@ -6097,7 +6097,7 @@
       <MuteMaster mute-point="PreFader,PostFader,Listen,Main" muted="no"/>
       <RemoteControl id="0"/>
       <Pannable>
-        <Controllable name="pan-azimuth" id="11848" flags="" value="0.256756761590"/>
+        <Controllable name="pan-azimuth" id="11848" flags="" value="0.337837833810"/>
         <Controllable name="pan-width" id="11852" flags="" value="0.000000000000"/>
         <Controllable name="pan-elevation" id="11850" flags="" value="0.000000000000"/>
         <Controllable name="pan-frontback" id="11854" flags="" value="0.000000000000"/>
@@ -6143,7 +6143,7 @@
       <MuteMaster mute-point="PreFader,PostFader,Listen,Main" muted="no"/>
       <RemoteControl id="0"/>
       <Pannable>
-        <Controllable name="pan-azimuth" id="11881" flags="" value="0.662162157329"/>
+        <Controllable name="pan-azimuth" id="11881" flags="" value="0.662162184715"/>
         <Controllable name="pan-width" id="11885" flags="" value="0.000000000000"/>
         <Controllable name="pan-elevation" id="11883" flags="" value="0.000000000000"/>
         <Controllable name="pan-frontback" id="11887" flags="" value="0.000000000000"/>
@@ -6217,7 +6217,7 @@
 </events>
           </AutomationList>
         </Automation>
-        <Controllable name="gaincontrol" id="11927" flags="GainLike" value="0.042876366526"/>
+        <Controllable name="gaincontrol" id="11927" flags="GainLike" value="0.005757613573"/>
       </Processor>
       <Processor id="3911" name="GLAME Butterworth Lowpass" active="yes" user-latency="0" type="ladspa" unique-id="1903" count="2">
         <ladspa last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="yes">
@@ -6317,8 +6317,8 @@
       <MuteMaster mute-point="PreFader,PostFader,Listen,Main" muted="no"/>
       <RemoteControl id="0"/>
       <Pannable>
-        <Controllable name="pan-azimuth" id="11997" flags="" value="0.270491808653"/>
-        <Controllable name="pan-width" id="12001" flags="" value="0.540983617306"/>
+        <Controllable name="pan-azimuth" id="11997" flags="" value="0.336065579145"/>
+        <Controllable name="pan-width" id="12001" flags="" value="0.672131158289"/>
         <Controllable name="pan-elevation" id="11999" flags="" value="0.000000000000"/>
         <Controllable name="pan-frontback" id="12003" flags="" value="0.000000000000"/>
         <Controllable name="pan-lfe" id="12005" flags="" value="0.000000000000"/>
@@ -12047,8 +12047,8 @@
         </InvFadeOut>
       </Region>
     </Playlist>
-    <Playlist id="11581" name="ruf_starlite_893988" type="audio" orig-track-id="5166" frozen="no" combine-ops="0"/>
     <Playlist id="11578" name="starlite_instr" type="audio" orig-track-id="4723" frozen="no" combine-ops="0"/>
+    <Playlist id="11581" name="ruf_starlite_893988" type="audio" orig-track-id="5166" frozen="no" combine-ops="0"/>
     <Playlist id="11585" name="starlite_theme_d4cba6" type="audio" orig-track-id="5660" frozen="no" combine-ops="0"/>
     <Playlist id="11531" name="ruf_real_3e8274" type="audio" orig-track-id="333" frozen="no" combine-ops="0">
       <Region locked="0" name="ruf_real_3e8274" position="1287200" length="14059154" stretch="1" muted="0" opaque="1" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" sync-position="0" ancestral-start="0" ancestral-length="0" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="359" type="audio" first-edit="nothing" source-0="324" source-1="326" master-source-0="324" master-source-1="326" channels="2">
